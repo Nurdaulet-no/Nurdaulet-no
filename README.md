@@ -47,7 +47,7 @@ hobbies: Robotics 🤖, Clean Code ✨, Deep Tech 💻
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdaulet-no&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/Nurdaulet-no/Nurdaulet-no/refs/heads/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Nurdaulet-no/Nurdaulet-no/refs/heads/output/github-snake-dark.svg)
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/> </p> 
 
