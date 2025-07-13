@@ -26,73 +26,102 @@ hobbies: Robotics 🤖, Clean Code ✨, Deep Tech 💻
 
 ## 🚀 Tech Stack
 
-### 🧠 Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" style="margin-right: 10px;" />
-</p>
+<br>
 
-### ⚙️ Frameworks & Libraries
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="Hibernate" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="margin-right: 10px;" />
-</p>
-
-### 🛢 Databases & Message Brokers
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka" style="margin-right: 10px;" />
-</p>
-
-### 🧪 Testing
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="JUnit" style="margin-right: 10px;" />
-  <img src="https://avatars.githubusercontent.com/u/12828902?s=200&v=4" height="40" alt="Mockito" style="margin-right: 10px;" />
-</p>
-
-### 📦 Build Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="Maven" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="Gradle" style="margin-right: 10px;" />
-</p>
-
-### 🔁 CI / CD
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Actions" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" style="margin-right: 10px;" />
-</p>
-
-### ☁️ Cloud & Infrastructure
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="Kubernetes" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="Cloudflare" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" style="margin-right: 10px;" />
-</p>
-
-### 📈 Monitoring & Observability
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" style="margin-right: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="40" alt="ELK" style="margin-right: 10px;" />
-</p>
-
-### 🌐 Web Tech
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin-right: 10px;" />
-</p>
-
-### 📜 API & Docs
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="Linux" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Linux" style="margin-right: 10px;" />
-</p>
+<table width="100%">
+  <tr>
+    <td valign="top" width="33.33%">
+      <h3>🧠 <b>Languages</b></h3>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" style="margin-right: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin-right: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" style="margin-right: 10px;" />
+      </p>
+    </td>
+    <td valign="top" width="33.33%">
+      <h3>⚙️ <b>Frameworks & Libraries</b></h3>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" style="margin-right: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="Hibernate" style="margin-right: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" style="margin-right: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="margin-right: 10px;" />
+      </p>
+    </td>
+    <td valign="top" width="33.33%">
+      <h3>🛢 <b>Databases & Message Brokers</b></h3>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" style="margin-right: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" style="margin-right: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka" style="margin-right: 10px;" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33.33%">
+      <h3>🧪 <b>Testing</b></h3>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="JUnit" style="margin-right: 10px;" />
+        <img src="https://avatars.githubusercontent.com/u/12828902?s=200&v=4" height="40" alt="Mockito" style="margin-right: 10px;" />
+      </p>
+    </td>
+    <td valign="top" width="33.33%">
+      <h3>📦 <b>Build Tools</b></h3>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="Maven" style="margin-right: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="Gradle" style="margin-right: 10px;" />
+      </p>
+    </td>
+    <td valign="top" width="33.33%">
+      <h3>🔁 <b>CI / CD</b></h3>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Actions" style="margin-right: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" style="margin-right: 10px;" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33.33%">
+      <h3>☁️ <b>Cloud & Infrastructure</b></h3>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" style="margin-right: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="Kubernetes" style="margin-right: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="Cloudflare" style="margin-right: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" style="margin-right: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" style="margin-right: 10px;" />
+      </p>
+    </td>
+    <td valign="top" width="33.33%">
+      <h3>📈 <b>Monitoring & Observability</b></h3>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" style="margin-right: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" style="margin-right: 10px;" />
+        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="40" alt="ELK" style="margin-right: 10px;" />
+      </p>
+    </td>
+    <td valign="top" width="33.33%">
+      <h3>🌐 <b>Web Tech</b></h3>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin-right: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin-right: 10px;" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33.33%">
+      <h3>📜 <b>API & Docs</b></h3>
+      <p align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="Swagger" style="margin-right: 10px;" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" style="margin-right: 10px;" />
+      </p>
+    </td>
+    <td valign="top" width="33.33%">
+      <!-- Пустая ячейка для выравнивания -->
+    </td>
+    <td valign="top" width="33.33%">
+      <!-- Пустая ячейка для выравнивания -->
+    </td>
+  </tr>
+</table>
 
 
 ## 📊 GitHub Stats
