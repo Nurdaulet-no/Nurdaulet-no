@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Ordo%20Ab%20Chao&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=90&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?text=01010011%2001101000%2001100101%2000100000%2001101001%2001110011%2000100000%2001100011%2001101111%2001101101%2001110000%2001101001%2001101100%2001100101%2001100100&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=60&fontAlignY=35"/>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=01101001%2001101110%2000100000%2001101101%2001111001%2000100000%2001110011%2001101111%2001110101%2001101100%2000101110&animation=fadeIn&type=waving&color=gradient&height=120&fontSize=60&fontAlignY=35"/>
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nurdaulet-kaldybek-30584a265"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30"/></a>
