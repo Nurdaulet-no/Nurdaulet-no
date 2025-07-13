@@ -16,6 +16,7 @@ role: Backend Developer (Java + Spring Boot)
 location: 🇰🇿 Kazakhstan
 university: Suleyman Demirel University (2022–2026)
 hobbies: Robotics 🤖, Clean Code ✨, Deep Tech 💻
+
 ```
 
 🚀 Tech Stack:
@@ -35,6 +36,8 @@ hobbies: Robotics 🤖, Clean Code ✨, Deep Tech 💻
   <img src="https://github-readme-stats.vercel.app/api?username=Nurdaulet-no&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdaulet-no&layout=compact&theme=tokyonight" height="150"/>
 </p>
+
 ![Snake animation](https://github.com/Nurdaulet-no/Nurdaulet-no/blob/output/github-contribution-grid-snake.svg)
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/> </p> ```
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/> </p> 
 
