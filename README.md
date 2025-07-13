@@ -1,23 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20my%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+<a href="ВАША_ССЫЛКА">
+  <img height="50" src="ПУТЬ_К_ИКОНКЕ.png"/>
+</a>
 
-```yaml
-name: Nurdaulet Kaldybek
-role: Java & Spring Boot Backend Developer
-education: Computer Science @ Suleyman Demirel University
-location: Kazakhstan
-hobbies: Robotics, Coding, Anime, Problem Solving
+* My m *
 
-
----
-
-### 🌐 4. Соцсети с иконками
-
-```markdown
-<p align="center">
-  <a href="https://linkedin.com/in/your-username"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40"/></a>
-  <a href="https://t.me/your_username"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="40"/></a>
-  <a href="mailto:your@email.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/></a>
+<h2> 🚀  Некоторые инструменты, которые я использовал и изучил</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
+
+![Snake animation](https://github.com/Nurdaulet-no/Nurdaulet-no/blob/output/github-contribution-grid-snake.svg)
