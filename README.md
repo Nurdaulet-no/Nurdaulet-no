@@ -20,7 +20,7 @@ name: Nurdaulet Kaldybek
 role: Backend Developer (Java, Spring Boot)
 location: 🇰🇿 Kazakhstan, Almaty
 university: Suleyman Demirel University (2022–2026)
-hobbies: Robotics 🤖, Clean Code ✨, Deep Tech 💻
+hobbies: Robotics 🤖, Clean Code ✨, Deep Tech 💻.
 
 ```
 
@@ -115,6 +115,7 @@ hobbies: Robotics 🤖, Clean Code ✨, Deep Tech 💻
       </p>
     </td>
     <td valign="top" width="33.33%">
+      <!-- Пустая ячейка для выравнивания -->
       <!-- Пустая ячейка для выравнивания -->
     </td>
     <td valign="top" width="33.33%">
