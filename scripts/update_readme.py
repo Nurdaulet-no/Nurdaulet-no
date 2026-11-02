@@ -2,14 +2,13 @@
 import json
 import os
 import re
+import subprocess
 import sys
-import urllib.error
-import urllib.request
 from datetime import datetime, timezone
 from urllib.parse import urlparse
 
 README = "README.md"
-API_URL = "https://models.github.ai/inference/chat/completions"
+API_URL = os.environ.get("API_URL", "https://models.github.ai/inference/chat/completions")
 MODEL = os.environ.get("MODEL", "openai/gpt-4.1-mini")
 TOKEN = os.environ["GITHUB_TOKEN"]
 
@@ -26,7 +25,6 @@ ALLOWED_DOMAINS = {
     "twitter.com",
     "x.com",
 }
-
 ALLOWED_DOMAINS |= {d.strip() for d in os.environ.get("EXTRA_DOMAINS", "").split(",") if d.strip()}
 
 REQUIRED = [s.strip() for s in os.environ.get("REQUIRED_STRINGS", "").split(",") if s.strip()]
@@ -69,24 +67,33 @@ def call_model(current: str) -> str:
             },
         ],
     }
-    req = urllib.request.Request(
-        API_URL,
-        data=json.dumps(payload).encode("utf-8"),
-        headers={
-            "Authorization": f"Bearer {TOKEN}",
-            "Accept": "application/vnd.github+json",
-            "Content-Type": "application/json",
-            "X-GitHub-Api-Version": "2022-11-28",
-        },
-        method="POST",
-    )
+    cmd = [
+        "curl", "-sS", "-L", "--max-time", "120",
+        "-X", "POST", API_URL,
+        "-H", "Accept: application/vnd.github+json",
+        "-H", f"Authorization: Bearer {TOKEN}",
+        "-H", "X-GitHub-Api-Version: 2022-11-28",
+        "-H", "Content-Type: application/json",
+        "--data-binary", "@-",
+        "-w", "\n%{http_code}",
+    ]
     try:
-        with urllib.request.urlopen(req, timeout=120) as resp:
-            data = json.load(resp)
-    except urllib.error.HTTPError as e:
-        fail(f"API error {e.code}: {e.read().decode('utf-8', 'replace')[:500]}")
-    except Exception as e: 
-        fail(f"Request failed: {e}")
+        proc = subprocess.run(
+            cmd, input=json.dumps(payload), capture_output=True, text=True, timeout=150
+        )
+    except Exception as e:
+        fail(f"Could not run curl: {e}")
+    if proc.returncode != 0:
+        fail(f"curl failed ({proc.returncode}): {proc.stderr.strip()[:500]}")
+
+    body, _, status = proc.stdout.rpartition("\n")
+    print(f"HTTP status: {status}")
+    if not status.startswith("2"):
+        fail(f"API error {status}: {body[:500]}")
+    try:
+        data = json.loads(body)
+    except ValueError:
+        fail(f"Response is not JSON (HTTP {status}). First 500 chars: {body[:500]!r}")
     try:
         choice = data["choices"][0]
         if choice.get("finish_reason") == "length":
