@@ -20,7 +20,7 @@
 
 ## `> whoami`
 
-Backend developer focused on **Java 17/21, Spring Boot, and PostgreSQL**. I have worked with production microservices, JWT security, external integrations, data processing, and performance testing. I enjoy finding bottlenecks, making architectural trade-offs explicit, and building systems whose behavior can be measured.
+Backend developer focused on **Java 17/21, Spring Boot, and PostgreSQL**. I have worked with production microservices, JWT security, external integrations, data processing, and performance testing. I enjoy finding bottlenecks, making architectural trade‑offs explicit, and building systems whose behavior can be measured.
 
 <!-- ENGINEERING METRICS -->
 <table width="100%">
@@ -161,6 +161,23 @@ Backend developer focused on **Java 17/21, Spring Boot, and PostgreSQL**. I have
   <h3>Let's build something reliable.</h3>
   <p>I'm open to Java Backend Developer opportunities and interesting engineering problems.</p>
   <a href="mailto:nurdaqt@gmail.com"><img src="https://img.shields.io/badge/Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
+</div>
+
+## 💡 Thought of the day
+
+> *“The best way to predict the future is to invent it.” – Alan Kay*  
+
+A reminder that every line of code we write shapes the systems of tomorrow.
+
+## 📅 Daily changelog
+
+- Added **Thought of the day** and **Daily changelog** sections to give the profile a living, evolving feel.
+
+---
+
+<div align="center">
+  <h3>Last edit</h3>
+  <p>Added new daily sections (Thought of the day & Daily changelog) to keep the README fresh.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
