@@ -8,9 +8,9 @@ from datetime import datetime, timezone
 from urllib.parse import urlparse
 
 README = "README.md"
-API_URL = os.environ.get("API_URL", "https://models.github.ai/inference/chat/completions")
-MODEL = os.environ.get("MODEL", "openai/gpt-4.1-mini")
-TOKEN = os.environ["GITHUB_TOKEN"]
+API_URL = os.environ.get("API_URL", "https://api.groq.com/openai/v1/chat/completions")
+MODEL = os.environ.get("MODEL", "llama-3.3-70b-versatile")
+TOKEN = os.environ["GROQ_API_KEY"]
 
 MIN_BYTES = 200
 MAX_BYTES = 20_000
@@ -70,9 +70,8 @@ def call_model(current: str) -> str:
     cmd = [
         "curl", "-sS", "-L", "--max-time", "120",
         "-X", "POST", API_URL,
-        "-H", "Accept: application/vnd.github+json",
+        "-H", "Accept: application/json",
         "-H", f"Authorization: Bearer {TOKEN}",
-        "-H", "X-GitHub-Api-Version: 2022-11-28",
         "-H", "Content-Type: application/json",
         "--data-binary", "@-",
         "-w", "\n%{http_code}",
