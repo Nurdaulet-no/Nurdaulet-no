@@ -1,0 +1,44 @@
+name: Daily README update
+
+on:
+  schedule:
+    - cron: "0 9 * * *" 
+  workflow_dispatch:      
+
+permissions:
+  contents: write
+  models: read
+
+concurrency:
+  group: daily-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Ask the model to update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MODEL: openai/gpt-4.1-mini
+          REQUIRED_STRINGS: "nurdaqt@gmail.com,t.me/tqnur,nuiway.tech,linkedin.com/in/nurdaulet-kaldybek-30584a265,github.com/Nurdaulet-no/datawave,Suleyman Demirel University,Jigi"
+        run: python scripts/update_readme.py
+
+      - name: Commit only README.md
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "🤖 Daily README update $(date -u +%F)"
+            git push
+          fi
