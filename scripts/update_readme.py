@@ -9,7 +9,7 @@ from urllib.parse import urlparse
 
 README = "README.md"
 API_URL = os.environ.get("API_URL", "https://api.groq.com/openai/v1/chat/completions")
-MODEL = os.environ.get("MODEL", "llama-3.3-70b-versatile")
+MODEL = os.environ.get("MODEL", "openai/gpt-oss-120b")
 TOKEN = os.environ["GROQ_API_KEY"]
 
 MIN_BYTES = 200
