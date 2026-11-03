@@ -165,19 +165,20 @@ Backend developer focused on **Java 17/21, Spring Boot, and PostgreSQL**. I have
 
 ## 💡 Thought of the day
 
-> *“The best way to predict the future is to invent it.” – Alan Kay*  
+> *“Simplicity is the soul of efficiency.” – Austin Freeman*  
 
-A reminder that every line of code we write shapes the systems of tomorrow.
+A gentle nudge to strip away unnecessary complexity and let performance shine.
 
 ## 📅 Daily changelog
 
-- Added **Thought of the day** and **Daily changelog** sections to give the profile a living, evolving feel.
+- Updated **Thought of the day** with a fresh quote.
+- Added a **Daily changelog** entry to keep the profile lively.
 
 ---
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Added new daily sections (Thought of the day & Daily changelog) to keep the README fresh.</p>
+  <p>Replaced the quote and recorded the change in the daily changelog to maintain a dynamic feel.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
