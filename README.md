@@ -16,138 +16,149 @@
   <img src="https://img.shields.io/badge/Open_to-Java_Backend_roles-22C55E?style=flat-square" alt="Open to Java Backend roles" />
 </p>
 
-<br />
+<div align="center">
+  <pre style="font-family:monospace; font-size:14px; line-height:1.2;">
+   _____               _        _   _      _             
+  |_   _| __ __ _  ___| | __   | |_| | ___| |_ ___  _ __ 
+    | || '__/ _` |/ __| |/ /   | __| |/ _ \ __/ _ \| '__|
+    | || | | (_| | (__|   <    | |_| |  __/ || (_) | |   
+    |_||_|  \__,_|\___|_|\_\    \__|_|\___|\__\___/|_|   
+  </pre>
+</div>
 
-## `> whoami`
+---
 
-Backend developer focused on **Java 17/21, Spring Boot, and PostgreSQL**. I have worked with production microservices, JWT security, external integrations, data processing, and performance testing. I enjoy finding bottlenecks, making architectural trade‑offs explicit, and building systems whose behavior can be measured.
+## `whoami`
 
-<!-- ENGINEERING METRICS -->
-<table width="100%">
+```text
+> I am a backend artisan crafting Java 17/21 services.
+> My toolkit: Spring Boot, PostgreSQL, and a dash of performance wizardry.
+> I thrive on spotting bottlenecks, exposing architectural trade‑offs,
+> and turning vague requirements into measurable, reliable systems.
+```
+
+---
+
+## 📊 Engineering Metrics (Live‑Demo)
+
+<table width="100%" style="border-collapse:collapse;">
   <tr>
     <td align="center" width="33%">
       <h2>6,071</h2>
-      <sub><b>requests per second</b><br />Datawave k6 benchmark</sub>
+      <sub><b>RPS</b><br/>Datawave k6 benchmark</sub>
     </td>
     <td align="center" width="33%">
-      <h2>0%</h2>
-      <sub><b>request failures</b><br />at 300 concurrent VUs</sub>
+      <h2>0 %</h2>
+      <sub><b>Failures</b><br/>300 concurrent VUs</sub>
     </td>
     <td align="center" width="33%">
       <h2>5</h2>
-      <sub><b>production components</b><br />improved logging at Jigi</sub>
+      <sub><b>Components</b><br/>Logging improvements @ Jigi</sub>
     </td>
   </tr>
 </table>
 
-## Selected engineering work
+---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Datawave</h3>
-      <p><b>High-frequency time-series aggregator</b></p>
-      <p>Async ingestion and PostgreSQL tuning under heavy concurrent load.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </p>
-      <ul>
-        <li>6,071 RPS and 0% errors at 300 VUs</li>
-        <li>JDBC batching and background workers</li>
-        <li>Daily partitions and BRIN indexes</li>
-      </ul>
-      <a href="https://github.com/Nurdaulet-no/datawave"><b>View repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 E-commerce Platform</h3>
-      <p><b>Multi-client commerce backend</b></p>
-      <p>Production platform adapted and deployed for several clients.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API" />
-        <img src="https://img.shields.io/badge/Private_client_work-64748B?style=flat-square&logo=lock&logoColor=white" alt="Private client work" />
-      </p>
-      <ul>
-        <li>Marketplace catalog and order synchronization</li>
-        <li>WhatsApp customer-message automation</li>
-        <li>Analytics with Excel report export</li>
-      </ul>
-      <b>Freelance · 2024-2025</b>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗺️ QDAM</h3>
-      <p><b>Privacy-focused GPS strategy game</b></p>
-      <p>Geospatial territory capture with an interactive 3D map.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
-        <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-      </p>
-      <ul>
-        <li>PostGIS territory-capture logic</li>
-        <li>Row Level Security policies</li>
-        <li>Offline-first and privacy-by-design sync</li>
-      </ul>
-      <a href="https://github.com/Skyshmallow/qdam"><b>View repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬 Cortex Chat</h3>
-      <p><b>Secure real-time messaging backend</b></p>
-      <p>Private and group messaging with persisted conversation history.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
-        <img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square" alt="WebSocket" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-      </p>
-      <ul>
-        <li>WebSocket and STOMP communication</li>
-        <li>JWT authentication and authorization</li>
-        <li>PostgreSQL persistence with Flyway</li>
-      </ul>
-      <a href="https://github.com/Nurdaulet-no/cortex-chat-backend"><b>View repository →</b></a>
-    </td>
-  </tr>
-</table>
+## 🚀 Projects
 
-## Experience
+<details open>
+<summary><strong>⚡ Datawave – High‑frequency time‑series aggregator</strong></summary>
 
-| Period | Role | Selected impact |
-| :-- | :-- | :-- |
-| **2024-2025** | **Java Backend Developer** · Freelance | Built and deployed a reusable e-commerce platform; integrated marketplace APIs and automated customer communication. |
-| **2024** | **Backend Intern** · Jigi | Improved production logging and sensitive-data masking; implemented stateless JWT authentication; diagnosed REST API defects. |
+- **Goal:** Stream massive telemetry into PostgreSQL while staying under the latency radar.  
+- **Highlights:**  
+  - 6,071 RPS, 0 % errors at 300 VUs.  
+  - JDBC batch writes + background workers.  
+  - Daily partitions + BRIN indexes for lightning‑fast scans.  
+- **Tech:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+- **Repo:** <a href="https://github.com/Nurdaulet-no/datawave"><b>GitHub →</b></a>
+</details>
 
-## Technology toolbox
+<details>
+<summary><strong>🛒 E‑commerce Platform – Multi‑client commerce backend</strong></summary>
+
+- **Scope:** Production‑grade platform refactored for several private clients.  
+- **Features:**  
+  - Central catalogue & order sync across marketplaces.  
+  - WhatsApp‑driven customer‑message automation.  
+  - Excel‑style analytics exports.  
+- **Tech:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API" />
+  <img src="https://img.shields.io/badge/Private_client_work-64748B?style=flat-square&logo=lock&logoColor=white" alt="Private client work" />
+- **Timeline:** Freelance · 2024‑2025
+</details>
+
+<details>
+<summary><strong>🗺️ QDAM – Privacy‑first GPS strategy game</strong></summary>
+
+- **Concept:** Capture territories on a 3‑D map without sacrificing privacy.  
+- **Core:**  
+  - PostGIS‑driven capture logic.  
+  - Row‑Level Security policies.  
+  - Offline‑first sync with Supabase.  
+- **Tech:** <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
+  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+- **Repo:** <a href="https://github.com/Skyshmallow/qdam"><b>GitHub →</b></a>
+</details>
+
+<details>
+<summary><strong>💬 Cortex Chat – Secure real‑time messaging backend</strong></summary>
+
+- **Purpose:** Private & group chat with durable history.  
+- **Key points:**  
+  - WebSocket + STOMP transport.  
+  - JWT‑based auth & Spring Security hardening.  
+  - Flyway‑managed PostgreSQL schema.  
+- **Tech:** <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+- **Repo:** <a href="https://github.com/Nurdaulet-no/cortex-chat-backend"><b>GitHub →</b></a>
+</details>
+
+---
+
+## 📅 Experience
+
+| Period | Role | Impact |
+|--------|------|--------|
+| **2024‑2025** | **Java Backend Developer** – Freelance | Delivered a reusable e‑commerce engine, integrated marketplace APIs, and automated WhatsApp customer outreach. |
+| **2024** | **Backend Intern** – Jigi | Refined production logging, introduced stateless JWT auth, and debugged REST API edge cases. |
+
+---
+
+## 🧰 Technology Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,elasticsearch,docker,maven,git,linux&perline=10" alt="Java, Spring, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, Maven, Git and Linux" />
 </p>
 
 <p align="center">
-  <code>Java 17/21</code>
-  <code>Spring Data JPA</code>
-  <code>Spring Security</code>
-  <code>REST API</code>
+  <code>Java 17/21</code>
+  <code>Spring Data JPA</code>
+  <code>Spring Security</code>
+  <code>REST API</code>
   <code>JUnit</code>
   <code>Mockito</code>
   <code>k6</code>
 </p>
 
-## Education & languages
+---
+
+## 🎓 Education & 🌐 Languages
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 Education</h3>
+      <h3>Education</h3>
       <b>Suleyman Demirel University</b><br />
-      B.Sc. in Computer Science<br />
-      <sub>2022-2026 · Kazakhstan</sub>
+      B.Sc. Computer Science<br />
+      <sub>2022‑2026 · Kazakhstan</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🌍 Languages</h3>
+      <h3>Languages</h3>
       Kazakh — Native<br />
       Russian — Fluent<br />
       English — B2
@@ -155,24 +166,30 @@ Backend developer focused on **Java 17/21, Spring Boot, and PostgreSQL**. I have
   </tr>
 </table>
 
-<br />
+---
+
+## 📬 Open to Opportunities
 
 <div align="center">
   <h3>Let's build something reliable.</h3>
-  <p>I'm open to Java Backend Developer opportunities and interesting engineering problems.</p>
+  <p>Looking for Java Backend roles where performance meets clarity.</p>
   <a href="mailto:nurdaqt@gmail.com"><img src="https://img.shields.io/badge/Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
 </div>
 
-## 💡 Thought of the day
+---
+
+## 💡 Byte of Wisdom
 
 > *“Premature optimization is the root of all evil.” – Donald Knuth*  
 
-A reminder to measure before you tweak, and let data guide the refinements.
+A gentle nudge to let measurements lead the refactor dance.
 
-## 📅 Daily changelog
+---
 
-- Swapped the Thought of the day quote for a fresh perspective.
-- Recorded today’s update in the daily changelog.
+## 📋 Daily Changelog
+
+- Switched to a terminal‑style layout with collapsible project cards.
+- Updated the “Byte of Wisdom” section to keep the daily inspiration fresh.
 
 ---
 
@@ -188,7 +205,7 @@ A reminder to measure before you tweak, and let data guide the refinements.
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Replaced the quote and added an ASCII banner to keep the profile fresh.</p>
+  <p>Adopted a terminal‑themed layout with collapsible sections for a fresh look.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
