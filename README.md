@@ -165,20 +165,30 @@ Backend developer focused on **Java 17/21, Spring Boot, and PostgreSQL**. I have
 
 ## 💡 Thought of the day
 
-> *“Simplicity is the soul of efficiency.” – Austin Freeman*  
+> *“Premature optimization is the root of all evil.” – Donald Knuth*  
 
-A gentle nudge to strip away unnecessary complexity and let performance shine.
+A reminder to measure before you tweak, and let data guide the refinements.
 
 ## 📅 Daily changelog
 
-- Updated **Thought of the day** with a fresh quote.
-- Added a **Daily changelog** entry to keep the profile lively.
+- Swapped the Thought of the day quote for a fresh perspective.
+- Recorded today’s update in the daily changelog.
 
 ---
 
 <div align="center">
+  <pre style="font-size:12px; line-height:1.2;">
+   __  __           _        _ _ 
+  |  \/  | ___   __| |_   _ | | |
+  | |\/| |/ _ \ / _` | | | || | |
+  | |  | | (_) | (_| | |_| || | |
+  |_|  |_|\___/ \__,_|\__,_||_|_|
+  </pre>
+</div>
+
+<div align="center">
   <h3>Last edit</h3>
-  <p>Replaced the quote and recorded the change in the daily changelog to maintain a dynamic feel.</p>
+  <p>Replaced the quote and added an ASCII banner to keep the profile fresh.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
