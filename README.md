@@ -1,17 +1,20 @@
-<pre style="font-family:monospace; font-size:14px; line-height:1.2;">
-   _____          _           _       
-  |_   _|_ _  ___| |__   __ _| |_ ___ 
-    | |/ _` |/ __| '_ \ / _` | __/ _ \
-    | | (_| | (__| | | | (_| | ||  __/
-    |_|\\__,_|\\___|_| |_|\\__,_|\\__\\___|
+<pre style="font-family:monospace; font-size:15px; line-height:1.2;">
+┌───────────────────────────────────────────────────────────────┐
+│   _   _                 _            _     _                  │
+│  | \\ | | ___  _ __ ___ | |__   ___  | | __| | ___  ___        │
+│  |  \\| |/ _ \\| '_ ` _ \\| '_ \\ / _ \\ | |/ _` |/ _ \\/ __|       │
+│  | |\\  | (_) | | | | | | |_) |  __/ | | (_| |  __/\\__ \\       │
+│  |_| \\_|\\___/|_| |_| |_|_.__/ \\___| |_|\\__,_|\\___||___/       │
+│                                                               │
+│               Backend Engineer & Java Maestro                │
+└───────────────────────────────────────────────────────────────┘
 </pre>
 
-**Nurdaulet Kaldybek** – Backend Engineer & Java Maestro  
-*Almaty, Kazakhstan* — *2026‑11‑06*  
+**Nurdaulet Kaldybek** – *Almaty, Kazakhstan* — *2026‑11‑06*  
 
 ---
 
-### 📡 Contact & Social
+### 📡 Contact & Social
 
 | | |
 |---|---|
@@ -22,25 +25,25 @@
 
 ---
 
-## 👤 Who Am I?
+## 🎙️ Who & What
 
 > “I sculpt Java services that run at the speed of thought.”  
 
-Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I enjoy hunting performance bottlenecks, exposing architectural trade‑offs, and turning vague requirements into rock‑solid, measurable systems.
+A backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I thrive on hunting performance bottlenecks, exposing architectural trade‑offs, and turning vague requirements into rock‑solid, measurable systems.
 
 ---
 
-## 📈 Live Engineering Metrics
+## 📈 Live Engineering Metrics
 
-| Metric | Value | Context |
-|---|---|---|
+| **Metric** | **Value** | **Context** |
+|------------|-----------|-------------|
 | **RPS** | **6 071** | Datawave k6 benchmark |
 | **Failures** | **0 %** | 300 concurrent VUs |
 | **Components** | **5** | Logging improvements @ Jigi |
 
 ---
 
-## 🚧 Projects (expand to view)
+## 🚀 Featured Projects  
 
 <details open>
 <summary><strong>⚡ Datawave – High‑frequency Time‑Series Aggregator</strong></summary>
@@ -80,16 +83,16 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 ---
 
-## 🗂️ Professional Experience
+## 🗂️ Professional Experience
 
-| Period | Role | Achievements |
-|--------|------|--------------|
+| **Period** | **Role** | **Achievements** |
+|------------|----------|------------------|
 | **2024‑2025** | **Java Backend Developer – Freelance** | Delivered a reusable e‑commerce engine, integrated marketplace APIs, and automated WhatsApp customer outreach. |
 | **2024** | **Backend Intern – Jigi** | Refined production logging, introduced stateless JWT auth, and debugged REST API edge cases. |
 
 ---
 
-## 🛠️ Technology Toolbox
+## 🛠️ Technology Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,elasticsearch,docker,maven,git,linux&perline=10" alt="Java, Spring, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, Maven, Git, Linux" />
@@ -101,7 +104,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 ---
 
-## 🎓 Education & 🌍 Languages
+## 🎓 Education & 🌍 Languages
 
 <table width="100%">
   <tr>
@@ -122,7 +125,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 ---
 
-## 📬 Open to Opportunities
+## 📬 Open to Opportunities
 
 <div align="center">
   <h3>Let’s build something reliable together.</h3>
@@ -132,7 +135,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 ---
 
-## 💡 Byte of Wisdom
+## 💡 Byte of Wisdom
 
 > *“Premature optimization is the root of all evil.” – Donald Knuth*  
 
@@ -140,11 +143,12 @@ Let measurements guide every refactor.
 
 ---
 
-## 📋 Daily Changelog
+## 🗓️ Daily Changelog
 
 ```
-[2026-11-06] Switched to a terminal‑style layout with ASCII banner, reorganized sections,
-             added expandable project cards, and refreshed the changelog format.
+[2026-11-07] Switched to a newspaper‑style layout with side‑by‑side education & languages,
+             added “Thought of the Day” placeholder, refreshed visual dividers,
+             kept all factual content intact.
 ```
 
 ---
@@ -161,7 +165,7 @@ Let measurements guide every refactor.
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Re‑imagined the README as a terminal‑styled console with ASCII art and collapsible project sections.</p>
+  <p>Adopted a newspaper‑style layout with new headings and a concise changelog.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
