@@ -1,20 +1,17 @@
-<pre style="font-family:monospace; font-size:15px; line-height:1.2;">
-┌───────────────────────────────────────────────────────────────┐
-│   _   _                 _            _     _                  │
-│  | \\ | | ___  _ __ ___ | |__   ___  | | __| | ___  ___        │
-│  |  \\| |/ _ \\| '_ ` _ \\| '_ \\ / _ \\ | |/ _` |/ _ \\/ __|       │
-│  | |\\  | (_) | | | | | | |_) |  __/ | | (_| |  __/\\__ \\       │
-│  |_| \\_|\\___/|_| |_| |_|_.__/ \\___| |_|\\__,_|\\___||___/       │
-│                                                               │
-│               Backend Engineer & Java Maestro                │
-└───────────────────────────────────────────────────────────────┘
-</pre>
-
-**Nurdaulet Kaldybek** – *Almaty, Kazakhstan* — *2026‑11‑06*  
+```
+   _   _                 _            _     _   
+  | \ | | ___  _ __ ___ | |__   ___  | | __| | ___  ___ 
+  |  \| |/ _ \| '_ ` _ \| '_ \ / _ \ | |/ _` |/ _ \/ __|
+  | |\  | (_) | | | | | | |_) |  __/ | | (_| |  __/\__ \
+  |_| \_|\___/|_| |_| |_|_.__/ \___| |_|\__,_|\___||___/
+                                                        
+               Nurdaulet Kaldybek – Almaty, Kazakhstan
+                           2026‑11‑08
+```
 
 ---
 
-### 📡 Contact & Social
+## 📞 Contact & Social
 
 | | |
 |---|---|
@@ -25,21 +22,21 @@
 
 ---
 
-## 🎙️ Who & What
+## 🗣️ Who & What
 
-> “I sculpt Java services that run at the speed of thought.”  
+> “I sculpt Java services that run at the speed of thought.”
 
-A backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I thrive on hunting performance bottlenecks, exposing architectural trade‑offs, and turning vague requirements into rock‑solid, measurable systems.
+Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. Passionate about hunting performance bottlenecks, exposing architectural trade‑offs, and turning vague requirements into rock‑solid, measurable systems.
 
 ---
 
-## 📈 Live Engineering Metrics
+## 📊 Live Engineering Metrics
 
-| **Metric** | **Value** | **Context** |
-|------------|-----------|-------------|
-| **RPS** | **6 071** | Datawave k6 benchmark |
-| **Failures** | **0 %** | 300 concurrent VUs |
-| **Components** | **5** | Logging improvements @ Jigi |
+| **Metric**   | **Value** | **Context** |
+|--------------|-----------|-------------|
+| **RPS**      | **6 071** | Datawave k6 benchmark |
+| **Failures**| **0 %**   | 300 concurrent VUs |
+| **Components**| **5**   | Logging improvements @ Jigi |
 
 ---
 
@@ -106,15 +103,15 @@ A backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQ
 
 ## 🎓 Education & 🌍 Languages
 
-<table width="100%">
+<table width="100%" style="border-collapse:collapse;">
   <tr>
-    <td width="48%" valign="top">
+    <td width="48%" valign="top" style="padding:5px;">
       <h3>Education</h3>
       <b>Suleyman Demirel University</b><br/>
       B.Sc. Computer Science<br/>
       <sub>2022‑2026 · Kazakhstan</sub>
     </td>
-    <td width="48%" valign="top">
+    <td width="48%" valign="top" style="padding:5px;">
       <h3>Languages</h3>
       Kazakh — Native<br/>
       Russian — Fluent<br/>
@@ -146,9 +143,9 @@ Let measurements guide every refactor.
 ## 🗓️ Daily Changelog
 
 ```
-[2026-11-07] Switched to a newspaper‑style layout with side‑by‑side education & languages,
-             added “Thought of the Day” placeholder, refreshed visual dividers,
-             kept all factual content intact.
+[2026-11-08] Switched to a terminal‑styled layout with ASCII banner,
+             moved contact badges to a compact table, added tech icons row,
+             kept all factual content unchanged.
 ```
 
 ---
@@ -165,7 +162,7 @@ Let measurements guide every refactor.
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Adopted a newspaper‑style layout with new headings and a concise changelog.</p>
+  <p>Adopted a terminal‑styled layout with ASCII banner and compact contact table.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
