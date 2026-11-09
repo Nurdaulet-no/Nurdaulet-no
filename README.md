@@ -1,36 +1,37 @@
 ```
-   _   _                 _            _     _   
-  | \ | | ___  _ __ ___ | |__   ___  | | __| | ___  ___ 
-  |  \| |/ _ \| '_ ` _ \| '_ \ / _ \ | |/ _` |/ _ \/ __|
-  | |\  | (_) | | | | | | |_) |  __/ | | (_| |  __/\__ \
-  |_| \_|\___/|_| |_| |_|_.__/ \___| |_|\__,_|\___||___/
-                                                        
+   ___        _            _           _       
+  |_ _|_ __  | |_ ___  ___| |__   __ _| |_ ___ 
+   | || '_ \ | __/ _ \/ __| '_ \ / _` | __/ _ \
+   | || | | || ||  __/\__ \ | | | (_| | ||  __/
+  |___|_| |_| \__\___||___/_| |_|\__,_|\__\___|
+                                                
                Nurdaulet Kaldybek – Almaty, Kazakhstan
-                           2026‑11‑08
+                               2026‑11‑09
 ```
 
----
+---  
 
-## 📞 Contact & Social
+## 📡 Connect
 
-| | |
-|---|---|
-| <a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> | <a href="https://www.linkedin.com/in/nurdaulet-kaldybek-30584a265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> |
-| <a href="https://t.me/tqnur"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a> | <a href="mailto:nurdaqt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> |
-| <img src="https://img.shields.io/badge/Almaty-Kazakhstan-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="Almaty, Kazakhstan" /> | <img src="https://img.shields.io/badge/English-B2-2563EB?style=flat-square" alt="English B2" /> |
-| <img src="https://img.shields.io/badge/Open_to-Java_Backend_roles-22C55E?style=flat-square" alt="Open to Java Backend roles" /> |  |
+<a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/nurdaulet-kaldybek-30584a265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://t.me/tqnur"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:nurdaqt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Almaty-Kazakhstan-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="Almaty, Kazakhstan" />
+<img src="https://img.shields.io/badge/English-B2-2563EB?style=flat-square" alt="English B2" />
+<img src="https://img.shields.io/badge/Open_to-Java_Backend_roles-22C55E?style=flat-square" alt="Open to Java Backend roles" />
 
----
+---  
 
-## 🗣️ Who & What
+## 🎭 Who & What
 
-> “I sculpt Java services that run at the speed of thought.”
+> *“I sculpt Java services that run at the speed of thought.”*  
 
-Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. Passionate about hunting performance bottlenecks, exposing architectural trade‑offs, and turning vague requirements into rock‑solid, measurable systems.
+Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I chase performance bottlenecks, expose architectural trade‑offs, and translate vague requirements into rock‑solid, measurable systems.
 
----
+---  
 
-## 📊 Live Engineering Metrics
+## 📈 Live Engineering Metrics
 
 | **Metric**   | **Value** | **Context** |
 |--------------|-----------|-------------|
@@ -38,16 +39,16 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 | **Failures**| **0 %**   | 300 concurrent VUs |
 | **Components**| **5**   | Logging improvements @ Jigi |
 
----
+---  
 
-## 🚀 Featured Projects  
+## 🚧 Featured Projects  
 
 <details open>
 <summary><strong>⚡ Datawave – High‑frequency Time‑Series Aggregator</strong></summary>
 
 - **Goal:** Ingest massive telemetry streams into PostgreSQL while staying under strict latency limits.  
 - **Highlights:** 6 071 RPS, 0 % errors at 300 VUs; batch JDBC writes + background workers; daily partitions + BRIN indexes for lightning‑fast scans.  
-- **Tech:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
+- **Tech Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
 - **Repo:** <a href="https://github.com/Nurdaulet-no/datawave"><strong>GitHub →</strong></a>
 </details>
 
@@ -56,7 +57,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 - **Scope:** Production‑grade platform refactored for several private clients.  
 - **Features:** Central catalogue & order sync across marketplaces; WhatsApp‑driven customer‑message automation; Excel‑style analytics exports.  
-- **Tech:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API" /> <img src="https://img.shields.io/badge/Private_client_work-64748B?style=flat-square&logo=lock&logoColor=white" alt="Private client work" />  
+- **Tech Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API" /> <img src="https://img.shields.io/badge/Private_client_work-64748B?style=flat-square&logo=lock&logoColor=white" alt="Private client work" />  
 - **Timeline:** Freelance · 2024‑2025
 </details>
 
@@ -65,7 +66,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 - **Concept:** Capture territories on a 3‑D map without sacrificing privacy.  
 - **Core:** PostGIS‑driven capture logic; Row‑Level Security policies; Offline‑first sync with Supabase.  
-- **Tech:** <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" /> <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />  
+- **Tech Stack:** <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" /> <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />  
 - **Repo:** <a href="https://github.com/Skyshmallow/qdam"><strong>GitHub →</strong></a>
 </details>
 
@@ -74,20 +75,20 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 - **Purpose:** Private & group chat with durable history.  
 - **Key Points:** WebSocket + STOMP transport; JWT‑based auth & Spring Security hardening; Flyway‑managed PostgreSQL schema.  
-- **Tech:** <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" /> <img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square" alt="WebSocket" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />  
+- **Tech Stack:** <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" /> <img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square" alt="WebSocket" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />  
 - **Repo:** <a href="https://github.com/Nurdaulet-no/cortex-chat-backend"><strong>GitHub →</strong></a>
 </details>
 
----
+---  
 
-## 🗂️ Professional Experience
+## 👔 Professional Experience
 
 | **Period** | **Role** | **Achievements** |
 |------------|----------|------------------|
 | **2024‑2025** | **Java Backend Developer – Freelance** | Delivered a reusable e‑commerce engine, integrated marketplace APIs, and automated WhatsApp customer outreach. |
 | **2024** | **Backend Intern – Jigi** | Refined production logging, introduced stateless JWT auth, and debugged REST API edge cases. |
 
----
+---  
 
 ## 🛠️ Technology Toolbox
 
@@ -99,7 +100,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
   <code>Java 17/21</code> <code>Spring Data JPA</code> <code>Spring Security</code> <code>REST API</code> <code>JUnit</code> <code>Mockito</code> <code>k6</code>
 </p>
 
----
+---  
 
 ## 🎓 Education & 🌍 Languages
 
@@ -120,7 +121,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
   </tr>
 </table>
 
----
+---  
 
 ## 📬 Open to Opportunities
 
@@ -130,7 +131,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
   <a href="mailto:nurdaqt@gmail.com"><img src="https://img.shields.io/badge/Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
 </div>
 
----
+---  
 
 ## 💡 Byte of Wisdom
 
@@ -138,17 +139,17 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 Let measurements guide every refactor.
 
----
+---  
 
-## 🗓️ Daily Changelog
+## 📅 Daily Changelog
 
 ```
-[2026-11-08] Switched to a terminal‑styled layout with ASCII banner,
-             moved contact badges to a compact table, added tech icons row,
-             kept all factual content unchanged.
+[2026-11-09] Switched to a newspaper‑styled layout with bold ASCII masthead,
+             reorganized sections, added a “Connect” header,
+             kept all factual data intact.
 ```
 
----
+---  
 
 <div align="center">
   <pre style="font-family:monospace; font-size:12px; line-height:1.2;">
@@ -162,7 +163,7 @@ Let measurements guide every refactor.
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Adopted a terminal‑styled layout with ASCII banner and compact contact table.</p>
+  <p>Adopted a newspaper‑styled layout with a bold masthead and reorganized sections.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
