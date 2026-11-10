@@ -1,21 +1,19 @@
-```
-root@github:~$ cat profile.txt
-```
+root@github:~$ cat profile.txt  
 
 ```
-   ___        _            _           _       
-  |_ _|_ __  | |_ ___  ___| |__   __ _| |_ ___ 
-   | || '_ \ | __/ _ \/ __| '_ \ / _` | __/ _ \
-   | || | | || ||  __/\__ \ | | | (_| | ||  __/
-  |___|_| |_| \__\___||___/_| |_|\__,_|\__\___|
-                                                
-               Nurdaulet Kaldybek – Almaty, Kazakhstan
-                                 2026‑11‑10
+   _____                 _                 _       
+  |_   _| __ ___  _ __ | | ___  _ __ ___ | |_ ___ 
+    | || '__/ _ \| '_ \| |/ _ \| '_ ` _ \| __/ __|
+    | || | | (_) | |_) | | (_) | | | | | | |_\__ \
+    |_||_|  \___/| .__/|_|\___/|_| |_| |_|\__|___/
+                 |_|                              
+            Nurdaulet Kaldybek – Almaty, Kazakhstan
+                            2026‑11‑10
 ```
 
----
+---  
 
-## 📡 Connect
+## 🌐 Connect  
 
 <a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/nurdaulet-kaldybek-30584a265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -25,17 +23,17 @@ root@github:~$ cat profile.txt
 <img src="https://img.shields.io/badge/English-B2-2563EB?style=flat-square" alt="English B2" />
 <img src="https://img.shields.io/badge/Open_to-Java_Backend_roles-22C55E?style=flat-square" alt="Open to Java Backend roles" />
 
----
+---  
 
-## 🎭 Who & What
+## 🎭 Who & What  
 
 > *“I sculpt Java services that run at the speed of thought.”*  
 
-Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance bottlenecks, expose architectural trade‑offs, and turn vague requirements into rock‑solid, measurable systems.
+Backend artisan proficient in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I chase performance bottlenecks, weigh architectural trade‑offs, and turn fuzzy requirements into rock‑solid, measurable systems.
 
----
+---  
 
-## 📈 Live Engineering Metrics
+## 📊 Live Engineering Metrics  
 
 | **Metric**   | **Value** | **Context** |
 |--------------|-----------|-------------|
@@ -43,7 +41,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 | **Failures**| **0 %**   | 300 concurrent VUs |
 | **Components**| **5**   | Logging improvements @ Jigi |
 
----
+---  
 
 ## 🚀 Featured Projects  
 
@@ -52,7 +50,9 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 - **Goal:** Ingest massive telemetry streams into PostgreSQL while staying under strict latency limits.  
 - **Highlights:** 6 071 RPS, 0 % errors at 300 VUs; batch JDBC writes + background workers; daily partitions + BRIN indexes for lightning‑fast scans.  
-- **Tech Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
+- **Tech Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
 - **Repo:** <a href="https://github.com/Nurdaulet-no/datawave"><strong>GitHub →</strong></a>
 </details>
 
@@ -61,7 +61,9 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 - **Scope:** Production‑grade platform refactored for several private clients.  
 - **Features:** Central catalogue & order sync across marketplaces; WhatsApp‑driven customer‑message automation; Excel‑style analytics exports.  
-- **Tech Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API" /> <img src="https://img.shields.io/badge/Private_client_work-64748B?style=flat-square&logo=lock&logoColor=white" alt="Private client work" />  
+- **Tech Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API" />
+  <img src="https://img.shields.io/badge/Private_client_work-64748B?style=flat-square&logo=lock&logoColor=white" alt="Private client work" />  
 - **Timeline:** Freelance · 2024‑2025
 </details>
 
@@ -70,7 +72,9 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 - **Concept:** Capture territories on a 3‑D map without sacrificing privacy.  
 - **Core:** PostGIS‑driven capture logic; Row‑Level Security policies; Offline‑first sync with Supabase.  
-- **Tech Stack:** <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" /> <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />  
+- **Tech Stack:** <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
+  <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />  
 - **Repo:** <a href="https://github.com/Skyshmallow/qdam"><strong>GitHub →</strong></a>
 </details>
 
@@ -79,22 +83,24 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 - **Purpose:** Private & group chat with durable history.  
 - **Key Points:** WebSocket + STOMP transport; JWT‑based auth & Spring Security hardening; Flyway‑managed PostgreSQL schema.  
-- **Tech Stack:** <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" /> <img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square" alt="WebSocket" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />  
+- **Tech Stack:** <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />  
 - **Repo:** <a href="https://github.com/Nurdaulet-no/cortex-chat-backend"><strong>GitHub →</strong></a>
 </details>
 
----
+---  
 
-## 👔 Professional Experience
+## 👔 Professional Experience  
 
 | **Period** | **Role** | **Achievements** |
 |------------|----------|------------------|
 | **2024‑2025** | **Java Backend Developer – Freelance** | Delivered a reusable e‑commerce engine, integrated marketplace APIs, and automated WhatsApp customer outreach. |
 | **2024** | **Backend Intern – Jigi** | Refined production logging, introduced stateless JWT auth, and debugged REST API edge cases. |
 
----
+---  
 
-## 🛠️ Technology Toolbox
+## 🛠️ Technology Toolbox  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,elasticsearch,docker,maven,git,linux&perline=10" alt="Java, Spring, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, Maven, Git, Linux" />
@@ -104,9 +110,9 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
   <code>Java 17/21</code> <code>Spring Data JPA</code> <code>Spring Security</code> <code>REST API</code> <code>JUnit</code> <code>Mockito</code> <code>k6</code>
 </p>
 
----
+---  
 
-## 🎓 Education & 🌍 Languages
+## 🎓 Education & 🌍 Languages  
 
 <table width="100%" style="border-collapse:collapse;">
   <tr>
@@ -125,9 +131,9 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
   </tr>
 </table>
 
----
+---  
 
-## 📬 Open to Opportunities
+## 📬 Open to Opportunities  
 
 <div align="center">
   <h3>Let’s build something reliable together.</h3>
@@ -135,17 +141,17 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
   <a href="mailto:nurdaqt@gmail.com"><img src="https://img.shields.io/badge/Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
 </div>
 
----
+---  
 
-## 💡 Byte of Wisdom
+## 💡 Byte of Wisdom  
 
 > *“Premature optimization is the root of all evil.” – Donald Knuth*  
 
 Let measurements guide every refactor.
 
----
+---  
 
-## 📅 Daily Changelog
+## 📅 Daily Changelog  
 
 ```
 [2026-11-10] Switched to a retro‑terminal layout with command‑prompt header,
@@ -153,7 +159,7 @@ Let measurements guide every refactor.
              preserved all factual data and URLs.
 ```
 
----
+---  
 
 <div align="center">
   <pre style="font-family:monospace; font-size:12px; line-height:1.2;">
