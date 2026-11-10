@@ -1,4 +1,8 @@
 ```
+root@github:~$ cat profile.txt
+```
+
+```
    ___        _            _           _       
   |_ _|_ __  | |_ ___  ___| |__   __ _| |_ ___ 
    | || '_ \ | __/ _ \/ __| '_ \ / _` | __/ _ \
@@ -6,10 +10,10 @@
   |___|_| |_| \__\___||___/_| |_|\__,_|\__\___|
                                                 
                Nurdaulet Kaldybek – Almaty, Kazakhstan
-                               2026‑11‑09
+                                 2026‑11‑10
 ```
 
----  
+---
 
 ## 📡 Connect
 
@@ -21,15 +25,15 @@
 <img src="https://img.shields.io/badge/English-B2-2563EB?style=flat-square" alt="English B2" />
 <img src="https://img.shields.io/badge/Open_to-Java_Backend_roles-22C55E?style=flat-square" alt="Open to Java Backend roles" />
 
----  
+---
 
 ## 🎭 Who & What
 
 > *“I sculpt Java services that run at the speed of thought.”*  
 
-Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I chase performance bottlenecks, expose architectural trade‑offs, and translate vague requirements into rock‑solid, measurable systems.
+Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance bottlenecks, expose architectural trade‑offs, and turn vague requirements into rock‑solid, measurable systems.
 
----  
+---
 
 ## 📈 Live Engineering Metrics
 
@@ -39,9 +43,9 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 | **Failures**| **0 %**   | 300 concurrent VUs |
 | **Components**| **5**   | Logging improvements @ Jigi |
 
----  
+---
 
-## 🚧 Featured Projects  
+## 🚀 Featured Projects  
 
 <details open>
 <summary><strong>⚡ Datawave – High‑frequency Time‑Series Aggregator</strong></summary>
@@ -79,7 +83,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 - **Repo:** <a href="https://github.com/Nurdaulet-no/cortex-chat-backend"><strong>GitHub →</strong></a>
 </details>
 
----  
+---
 
 ## 👔 Professional Experience
 
@@ -88,7 +92,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 | **2024‑2025** | **Java Backend Developer – Freelance** | Delivered a reusable e‑commerce engine, integrated marketplace APIs, and automated WhatsApp customer outreach. |
 | **2024** | **Backend Intern – Jigi** | Refined production logging, introduced stateless JWT auth, and debugged REST API edge cases. |
 
----  
+---
 
 ## 🛠️ Technology Toolbox
 
@@ -100,7 +104,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
   <code>Java 17/21</code> <code>Spring Data JPA</code> <code>Spring Security</code> <code>REST API</code> <code>JUnit</code> <code>Mockito</code> <code>k6</code>
 </p>
 
----  
+---
 
 ## 🎓 Education & 🌍 Languages
 
@@ -121,7 +125,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
   </tr>
 </table>
 
----  
+---
 
 ## 📬 Open to Opportunities
 
@@ -131,7 +135,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
   <a href="mailto:nurdaqt@gmail.com"><img src="https://img.shields.io/badge/Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
 </div>
 
----  
+---
 
 ## 💡 Byte of Wisdom
 
@@ -139,17 +143,17 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 Let measurements guide every refactor.
 
----  
+---
 
 ## 📅 Daily Changelog
 
 ```
-[2026-11-09] Switched to a newspaper‑styled layout with bold ASCII masthead,
-             reorganized sections, added a “Connect” header,
-             kept all factual data intact.
+[2026-11-10] Switched to a retro‑terminal layout with command‑prompt header,
+             reordered sections for a linear “cat profile.txt” flow,
+             preserved all factual data and URLs.
 ```
 
----  
+---
 
 <div align="center">
   <pre style="font-family:monospace; font-size:12px; line-height:1.2;">
@@ -163,7 +167,7 @@ Let measurements guide every refactor.
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Adopted a newspaper‑styled layout with a bold masthead and reorganized sections.</p>
+  <p>Adopted a retro‑terminal style with a linear flow and updated the changelog.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
