@@ -1,14 +1,13 @@
-root@github:~$ cat profile.txt  
-
 ```
-   _____                 _                 _       
-  |_   _| __ ___  _ __ | | ___  _ __ ___ | |_ ___ 
-    | || '__/ _ \| '_ \| |/ _ \| '_ ` _ \| __/ __|
-    | || | | (_) | |_) | | (_) | | | | | | |_\__ \
-    |_||_|  \___/| .__/|_|\___/|_| |_| |_|\__|___/
-                 |_|                              
-            Nurdaulet Kaldybek – Almaty, Kazakhstan
-                            2026‑11‑10
+   ███╗   ███╗██╗   ██╗██████╗ ██████╗ ███████╗██████╗ ████████╗
+   ████╗ ████║██║   ██║██╔══██╗██╔══██╗██╔════╝██╔══██╗╚══██╔══╝
+   ██╔████╔██║██║   ██║██████╔╝██████╔╝█████╗  ██████╔╝   ██║   
+   ██║╚██╔╝██║██║   ██║██╔═══╝ ██╔═══╝ ██╔══╝  ██╔══██╗   ██║   
+   ██║ ╚═╝ ██║╚██████╔╝██║     ██║     ███████╗██║  ██║   ██║   
+   ╚═╝     ╚═╝ ╚═════╝ ╚═╝     ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   
+                                                              
+               Nurdaulet Kaldybek – Almaty, Kazakhstan
+                                   2026‑11‑11
 ```
 
 ---  
@@ -25,11 +24,11 @@ root@github:~$ cat profile.txt
 
 ---  
 
-## 🎭 Who & What  
+## 🎭 About Me  
 
 > *“I sculpt Java services that run at the speed of thought.”*  
 
-Backend artisan proficient in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I chase performance bottlenecks, weigh architectural trade‑offs, and turn fuzzy requirements into rock‑solid, measurable systems.
+Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance bottlenecks, weigh architectural trade‑offs, and translate vague requirements into rock‑solid, measurable systems.
 
 ---  
 
@@ -154,26 +153,24 @@ Let measurements guide every refactor.
 ## 📅 Daily Changelog  
 
 ```
-[2026-11-10] Switched to a retro‑terminal layout with command‑prompt header,
-             reordered sections for a linear “cat profile.txt” flow,
-             preserved all factual data and URLs.
+[2026-11-11] Switched to a game‑menu visual theme, added ASCII banner, reordered sections for a more immersive flow, and refreshed the changelog entry.
 ```
 
 ---  
 
 <div align="center">
   <pre style="font-family:monospace; font-size:12px; line-height:1.2;">
-   __  __           _        _ _ 
-  |  \/  | ___   __| |_   _ | | |
-  | |\/| |/ _ \ / _` | | | || | |
-  | |  | | (_) | (_| | |_| || | |
-  |_|  |_|\___/ \__,_|\__,_||_|_|
+   _____ _                 _       
+  |  ___(_)_ __ ___   __ _| |_ ___ 
+  | |_  | | '_ ` _ \ / _` | __/ _ \
+  |  _| | | | | | | | (_| | ||  __/
+  |_|   |_|_| |_| |_|\__,_|\__\___|
   </pre>
 </div>
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Adopted a retro‑terminal style with a linear flow and updated the changelog.</p>
+  <p>Introduced a game‑menu theme with new ASCII header and reordered layout.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
