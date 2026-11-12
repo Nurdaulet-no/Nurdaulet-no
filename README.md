@@ -1,18 +1,14 @@
 ```
-   ███╗   ███╗██╗   ██╗██████╗ ██████╗ ███████╗██████╗ ████████╗
-   ████╗ ████║██║   ██║██╔══██╗██╔══██╗██╔════╝██╔══██╗╚══██╔══╝
-   ██╔████╔██║██║   ██║██████╔╝██████╔╝█████╗  ██████╔╝   ██║   
-   ██║╚██╔╝██║██║   ██║██╔═══╝ ██╔═══╝ ██╔══╝  ██╔══██╗   ██║   
-   ██║ ╚═╝ ██║╚██████╔╝██║     ██║     ███████╗██║  ██║   ██║   
-   ╚═╝     ╚═╝ ╚═════╝ ╚═╝     ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   
-                                                              
-               Nurdaulet Kaldybek – Almaty, Kazakhstan
-                                   2026‑11‑11
+╔═╗┌─┐┬ ┬ ┬┌─┐┬ ┬┌─┐┬─┐   ╔═╗┬─┐┌─┐┬ ┬
+║ ║│ ││ │ │├─┘│ ││ │├┬┘   ║ ║├┬┘│ ││││
+╚═╝└─┘└─┘─┘┴  └─┘└─┘┴└─   ╚═╝┴└─└─┘└┴┘
+      Nurdaulet Kaldybek – Almaty, Kazakhstan
+                         2026‑11‑12
 ```
 
----  
+---
 
-## 🌐 Connect  
+## 🌍 Connect
 
 <a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/nurdaulet-kaldybek-30584a265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -22,17 +18,19 @@
 <img src="https://img.shields.io/badge/English-B2-2563EB?style=flat-square" alt="English B2" />
 <img src="https://img.shields.io/badge/Open_to-Java_Backend_roles-22C55E?style=flat-square" alt="Open to Java Backend roles" />
 
----  
+---
 
-## 🎭 About Me  
+## 🤖 About Me  
 
-> *“I sculpt Java services that run at the speed of thought.”*  
+```
+> I sculpt Java services that run at the speed of thought.
+```
 
-Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance bottlenecks, weigh architectural trade‑offs, and translate vague requirements into rock‑solid, measurable systems.
+Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I chase performance bottlenecks, weigh architectural trade‑offs, and turn fuzzy requirements into rock‑solid, measurable systems.
 
----  
+---
 
-## 📊 Live Engineering Metrics  
+## 📈 Live Engineering Metrics  
 
 | **Metric**   | **Value** | **Context** |
 |--------------|-----------|-------------|
@@ -40,12 +38,12 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 | **Failures**| **0 %**   | 300 concurrent VUs |
 | **Components**| **5**   | Logging improvements @ Jigi |
 
----  
+---
 
-## 🚀 Featured Projects  
+## 🚧 Featured Projects  
 
 <details open>
-<summary><strong>⚡ Datawave – High‑frequency Time‑Series Aggregator</strong></summary>
+<summary><strong>⚡ Datawave – High‑frequency Time‑Series Aggregator</strong></summary>
 
 - **Goal:** Ingest massive telemetry streams into PostgreSQL while staying under strict latency limits.  
 - **Highlights:** 6 071 RPS, 0 % errors at 300 VUs; batch JDBC writes + background workers; daily partitions + BRIN indexes for lightning‑fast scans.  
@@ -56,7 +54,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 </details>
 
 <details>
-<summary><strong>🛒 E‑commerce Platform – Multi‑Client Commerce Backend</strong></summary>
+<summary><strong>🛒 E‑commerce Platform – Multi‑Client Commerce Backend</strong></summary>
 
 - **Scope:** Production‑grade platform refactored for several private clients.  
 - **Features:** Central catalogue & order sync across marketplaces; WhatsApp‑driven customer‑message automation; Excel‑style analytics exports.  
@@ -67,7 +65,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 </details>
 
 <details>
-<summary><strong>🗺️ QDAM – Privacy‑First GPS Strategy Game</strong></summary>
+<summary><strong>🗺️ QDAM – Privacy‑First GPS Strategy Game</strong></summary>
 
 - **Concept:** Capture territories on a 3‑D map without sacrificing privacy.  
 - **Core:** PostGIS‑driven capture logic; Row‑Level Security policies; Offline‑first sync with Supabase.  
@@ -78,7 +76,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 </details>
 
 <details>
-<summary><strong>💬 Cortex Chat – Secure Real‑Time Messaging Backend</strong></summary>
+<summary><strong>💬 Cortex Chat – Secure Real‑Time Messaging Backend</strong></summary>
 
 - **Purpose:** Private & group chat with durable history.  
 - **Key Points:** WebSocket + STOMP transport; JWT‑based auth & Spring Security hardening; Flyway‑managed PostgreSQL schema.  
@@ -88,7 +86,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 - **Repo:** <a href="https://github.com/Nurdaulet-no/cortex-chat-backend"><strong>GitHub →</strong></a>
 </details>
 
----  
+---
 
 ## 👔 Professional Experience  
 
@@ -97,9 +95,9 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 | **2024‑2025** | **Java Backend Developer – Freelance** | Delivered a reusable e‑commerce engine, integrated marketplace APIs, and automated WhatsApp customer outreach. |
 | **2024** | **Backend Intern – Jigi** | Refined production logging, introduced stateless JWT auth, and debugged REST API edge cases. |
 
----  
+---
 
-## 🛠️ Technology Toolbox  
+## 🧰 Technology Toolbox  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,elasticsearch,docker,maven,git,linux&perline=10" alt="Java, Spring, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, Maven, Git, Linux" />
@@ -109,28 +107,23 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
   <code>Java 17/21</code> <code>Spring Data JPA</code> <code>Spring Security</code> <code>REST API</code> <code>JUnit</code> <code>Mockito</code> <code>k6</code>
 </p>
 
----  
+---
 
-## 🎓 Education & 🌍 Languages  
+## 🎓 Education  
 
-<table width="100%" style="border-collapse:collapse;">
-  <tr>
-    <td width="48%" valign="top" style="padding:5px;">
-      <h3>Education</h3>
-      <b>Suleyman Demirel University</b><br/>
-      B.Sc. Computer Science<br/>
-      <sub>2022‑2026 · Kazakhstan</sub>
-    </td>
-    <td width="48%" valign="top" style="padding:5px;">
-      <h3>Languages</h3>
-      Kazakh — Native<br/>
-      Russian — Fluent<br/>
-      English — B2
-    </td>
-  </tr>
-</table>
+**Suleyman Demirel University**  
+B.Sc. Computer Science  
+<sub>2022‑2026 · Kazakhstan</sub>
 
----  
+---
+
+## 🌐 Languages  
+
+- Kazakh — Native  
+- Russian — Fluent  
+- English — B2  
+
+---
 
 ## 📬 Open to Opportunities  
 
@@ -140,7 +133,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
   <a href="mailto:nurdaqt@gmail.com"><img src="https://img.shields.io/badge/Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
 </div>
 
----  
+---
 
 ## 💡 Byte of Wisdom  
 
@@ -148,15 +141,15 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 Let measurements guide every refactor.
 
----  
+---
 
 ## 📅 Daily Changelog  
 
 ```
-[2026-11-11] Switched to a game‑menu visual theme, added ASCII banner, reordered sections for a more immersive flow, and refreshed the changelog entry.
+[2026-11-12] Switched to a retro‑terminal visual theme, added new ASCII banner, reordered sections for a cleaner flow, and refreshed the changelog entry.
 ```
 
----  
+---
 
 <div align="center">
   <pre style="font-family:monospace; font-size:12px; line-height:1.2;">
@@ -170,7 +163,7 @@ Let measurements guide every refactor.
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Introduced a game‑menu theme with new ASCII header and reordered layout.</p>
+  <p>Applied a retro‑terminal theme with fresh ASCII header and reordered layout.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
