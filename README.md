@@ -1,14 +1,16 @@
-```
-╔═╗┌─┐┬ ┬ ┬┌─┐┬ ┬┌─┐┬─┐   ╔═╗┬─┐┌─┐┬ ┬
-║ ║│ ││ │ │├─┘│ ││ │├┬┘   ║ ║├┬┘│ ││││
-╚═╝└─┘└─┘─┘┴  └─┘└─┘┴└─   ╚═╝┴└─└─┘└┴┘
-      Nurdaulet Kaldybek – Almaty, Kazakhstan
-                         2026‑11‑12
-```
+<pre style="font-family:monospace; font-size:14px; line-height:1.2;">
+   __   __          _                     _       
+   \ \ / /__  _   _| |_ ___  _ __ ___    | |_ ___ 
+    \ V / _ \| | | | __/ _ \| '__/ _ \   | __/ _ \
+     | | (_) | |_| | || (_) | | |  __/   | ||  __/
+     |_|\___/ \__,_|\__\___/|_|  \___|    \__\___|
+</pre>
+
+**Nurdaulet Kaldybek** – Almaty, Kazakhstan &nbsp;&nbsp;*2026‑11‑13*
 
 ---
 
-## 🌍 Connect
+## 🌐 Connect  
 
 <a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/nurdaulet-kaldybek-30584a265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -20,27 +22,25 @@
 
 ---
 
-## 🤖 About Me  
+## 🎬 Mission Brief  
 
-```
-> I sculpt Java services that run at the speed of thought.
-```
+> *“I sculpt Java services that run at the speed of thought.”*  
 
-Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I chase performance bottlenecks, weigh architectural trade‑offs, and turn fuzzy requirements into rock‑solid, measurable systems.
+Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance bottlenecks, weigh architectural trade‑offs, and turn fuzzy requirements into rock‑solid, measurable systems.
 
 ---
 
-## 📈 Live Engineering Metrics  
+## 📊 Live Engineering Metrics  
 
-| **Metric**   | **Value** | **Context** |
-|--------------|-----------|-------------|
-| **RPS**      | **6 071** | Datawave k6 benchmark |
-| **Failures**| **0 %**   | 300 concurrent VUs |
-| **Components**| **5**   | Logging improvements @ Jigi |
+| **Metric**      | **Value** | **Context**                     |
+|-----------------|-----------|---------------------------------|
+| **RPS**         | **6 071** | Datawave k6 benchmark           |
+| **Failures**    | **0 %**   | 300 concurrent VUs              |
+| **Components**  | **5**     | Logging improvements @ Jigi    |
 
 ---
 
-## 🚧 Featured Projects  
+## 🛠️ Featured Projects  
 
 <details open>
 <summary><strong>⚡ Datawave – High‑frequency Time‑Series Aggregator</strong></summary>
@@ -90,14 +90,14 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 ## 👔 Professional Experience  
 
-| **Period** | **Role** | **Achievements** |
-|------------|----------|------------------|
+| **Period** | **Role** | **Highlights** |
+|------------|----------|----------------|
 | **2024‑2025** | **Java Backend Developer – Freelance** | Delivered a reusable e‑commerce engine, integrated marketplace APIs, and automated WhatsApp customer outreach. |
 | **2024** | **Backend Intern – Jigi** | Refined production logging, introduced stateless JWT auth, and debugged REST API edge cases. |
 
 ---
 
-## 🧰 Technology Toolbox  
+## 🧩 Technology Toolbox  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,elasticsearch,docker,maven,git,linux&perline=10" alt="Java, Spring, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, Maven, Git, Linux" />
@@ -117,7 +117,7 @@ B.Sc. Computer Science
 
 ---
 
-## 🌐 Languages  
+## 🌍 Languages  
 
 - Kazakh — Native  
 - Russian — Fluent  
@@ -128,8 +128,7 @@ B.Sc. Computer Science
 ## 📬 Open to Opportunities  
 
 <div align="center">
-  <h3>Let’s build something reliable together.</h3>
-  <p>Seeking Java Backend roles where performance meets clarity.</p>
+  <h3>Let’s craft reliable, high‑performance Java back‑ends together.</h3>
   <a href="mailto:nurdaqt@gmail.com"><img src="https://img.shields.io/badge/Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
 </div>
 
@@ -139,20 +138,20 @@ B.Sc. Computer Science
 
 > *“Premature optimization is the root of all evil.” – Donald Knuth*  
 
-Let measurements guide every refactor.
+Measurements guide every refactor.
 
 ---
 
 ## 📅 Daily Changelog  
 
 ```
-[2026-11-12] Switched to a retro‑terminal visual theme, added new ASCII banner, reordered sections for a cleaner flow, and refreshed the changelog entry.
+[2026-11-13] Switched to a news‑article visual theme, added a bold ASCII banner, reordered sections for a magazine‑style flow, and refreshed the changelog entry.
 ```
 
 ---
 
 <div align="center">
-  <pre style="font-family:monospace; font-size:12px; line-height:1.2;">
+  <pre style="font-family:monospace; font-size:12px;">
    _____ _                 _       
   |  ___(_)_ __ ___   __ _| |_ ___ 
   | |_  | | '_ ` _ \ / _` | __/ _ \
@@ -163,7 +162,7 @@ Let measurements guide every refactor.
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Applied a retro‑terminal theme with fresh ASCII header and reordered layout.</p>
+  <p>Applied a news‑article visual theme with a fresh ASCII header and reordered layout.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
