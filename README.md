@@ -1,16 +1,16 @@
-<pre style="font-family:monospace; font-size:14px; line-height:1.2;">
-   __   __          _                     _       
-   \ \ / /__  _   _| |_ ___  _ __ ___    | |_ ___ 
-    \ V / _ \| | | | __/ _ \| '__/ _ \   | __/ _ \
-     | | (_) | |_| | || (_) | | |  __/   | ||  __/
-     |_|\___/ \__,_|\__\___/|_|  \___|    \__\___|
+<pre style="font-family:monospace; font-size:15px; line-height:1.1;">
+  _   _                 _           _   _             
+ | \ | | ___  ___  ___ | | ___   __| | | |_ ___  ___  
+ |  \| |/ _ \/ __|/ _ \| |/ _ \ / _` | | __/ _ \/ __| 
+ | |\  |  __/\__ \ (_) | | (_) | (_| | | ||  __/\__ \ 
+ |_| \_|\___||___/\___/|_|\___/ \__,_|  \__\___||___/ 
 </pre>
 
-**Nurdaulet Kaldybek** – Almaty, Kazakhstan &nbsp;&nbsp;*2026‑11‑13*
+**Nurdaulet Kaldybek** – Almaty, Kazakhstan &nbsp;&nbsp;*2026‑11‑14*
 
 ---
 
-## 🌐 Connect  
+### 📡 Connect  
 
 <a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/nurdaulet-kaldybek-30584a265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -22,25 +22,25 @@
 
 ---
 
-## 🎬 Mission Brief  
+### 🎯 Mission Statement  
 
 > *“I sculpt Java services that run at the speed of thought.”*  
 
-Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance bottlenecks, weigh architectural trade‑offs, and turn fuzzy requirements into rock‑solid, measurable systems.
+A backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance bottlenecks, weigh architectural trade‑offs, and translate vague requirements into rock‑solid, measurable systems.
 
 ---
 
-## 📊 Live Engineering Metrics  
+### 📈 Live Engineering Metrics  
 
-| **Metric**      | **Value** | **Context**                     |
-|-----------------|-----------|---------------------------------|
-| **RPS**         | **6 071** | Datawave k6 benchmark           |
-| **Failures**    | **0 %**   | 300 concurrent VUs              |
-| **Components**  | **5**     | Logging improvements @ Jigi    |
+| **Metric**      | **Value** | **Context**               |
+|-----------------|-----------|---------------------------|
+| **RPS**         | **6 071** | Datawave k6 benchmark     |
+| **Failures**    | **0 %**   | 300 concurrent VUs        |
+| **Components**  | **5**     | Logging improvements @ Jigi |
 
 ---
 
-## 🛠️ Featured Projects  
+### 🗂️ Featured Projects  
 
 <details open>
 <summary><strong>⚡ Datawave – High‑frequency Time‑Series Aggregator</strong></summary>
@@ -88,7 +88,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 ---
 
-## 👔 Professional Experience  
+### 👔 Professional Experience  
 
 | **Period** | **Role** | **Highlights** |
 |------------|----------|----------------|
@@ -97,7 +97,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 ---
 
-## 🧩 Technology Toolbox  
+### 🧰 Technology Toolbox  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,elasticsearch,docker,maven,git,linux&perline=10" alt="Java, Spring, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, Maven, Git, Linux" />
@@ -109,7 +109,7 @@ Backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL*
 
 ---
 
-## 🎓 Education  
+### 🎓 Education  
 
 **Suleyman Demirel University**  
 B.Sc. Computer Science  
@@ -117,7 +117,7 @@ B.Sc. Computer Science
 
 ---
 
-## 🌍 Languages  
+### 🌐 Languages  
 
 - Kazakh — Native  
 - Russian — Fluent  
@@ -125,7 +125,7 @@ B.Sc. Computer Science
 
 ---
 
-## 📬 Open to Opportunities  
+### 📬 Open to Opportunities  
 
 <div align="center">
   <h3>Let’s craft reliable, high‑performance Java back‑ends together.</h3>
@@ -134,7 +134,7 @@ B.Sc. Computer Science
 
 ---
 
-## 💡 Byte of Wisdom  
+### 💡 Byte of Wisdom  
 
 > *“Premature optimization is the root of all evil.” – Donald Knuth*  
 
@@ -142,16 +142,16 @@ Measurements guide every refactor.
 
 ---
 
-## 📅 Daily Changelog  
+### 📅 Logbook  
 
 ```
-[2026-11-13] Switched to a news‑article visual theme, added a bold ASCII banner, reordered sections for a magazine‑style flow, and refreshed the changelog entry.
+[2026-11-14] Switched to a retro‑terminal visual theme, added a bold ASCII banner, reordered sections for a command‑line flow, and refreshed the daily log entry.
 ```
 
 ---
 
 <div align="center">
-  <pre style="font-family:monospace; font-size:12px;">
+  <pre style="font-family:monospace; font-size:13px;">
    _____ _                 _       
   |  ___(_)_ __ ___   __ _| |_ ___ 
   | |_  | | '_ ` _ \ / _` | __/ _ \
@@ -162,7 +162,7 @@ Measurements guide every refactor.
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Applied a news‑article visual theme with a fresh ASCII header and reordered layout.</p>
+  <p>Applied a retro‑terminal visual theme with a new ASCII header and reorganized layout for a command‑line vibe.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
