@@ -1,4 +1,4 @@
-<pre style="font-family:monospace; font-size:15px; line-height:1.1;">
+<pre style="font-family:monospace; font-size:16px; line-height:1.2; text-align:center;">
   _   _                 _           _   _             
  | \ | | ___  ___  ___ | | ___   __| | | |_ ___  ___  
  |  \| |/ _ \/ __|/ _ \| |/ _ \ / _` | | __/ _ \/ __| 
@@ -6,48 +6,47 @@
  |_| \_|\___||___/\___/|_|\___/ \__,_|  \__\___||___/ 
 </pre>
 
-**Nurdaulet Kaldybek** – Almaty, Kazakhstan &nbsp;&nbsp;*2026‑11‑14*
+**Nurdaulet Kaldybek** — Almaty, Kazakhstan&nbsp;&nbsp;*2026‑11‑15*  
 
 ---
 
-### 📡 Connect  
+## 🌐 Connect
 
-<a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/nurdaulet-kaldybek-30584a265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://t.me/tqnur"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="mailto:nurdaqt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Almaty-Kazakhstan-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="Almaty, Kazakhstan" />
-<img src="https://img.shields.io/badge/English-B2-2563EB?style=flat-square" alt="English B2" />
-<img src="https://img.shields.io/badge/Open_to-Java_Backend_roles-22C55E?style=flat-square" alt="Open to Java Backend roles" />
+| | |
+|---|---|
+| <a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> | <a href="https://www.linkedin.com/in/nurdaulet-kaldybek-30584a265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> |
+| <a href="https://t.me/tqnur"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a> | <a href="mailto:nurdaqt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> |
+| <img src="https://img.shields.io/badge/Almaty-Kazakhstan-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="Almaty, Kazakhstan" /> | <img src="https://img.shields.io/badge/English-B2-2563EB?style=flat-square" alt="English B2" /> |
+| <img src="https://img.shields.io/badge/Open_to-Java_Backend_roles-22C55E?style=flat-square" alt="Open to Java Backend roles" /> |  |
 
 ---
 
-### 🎯 Mission Statement  
+## 🎬 Mission Brief
 
 > *“I sculpt Java services that run at the speed of thought.”*  
 
-A backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance bottlenecks, weigh architectural trade‑offs, and translate vague requirements into rock‑solid, measurable systems.
+Backend artisan, fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance bottlenecks, weigh architectural trade‑offs, and turn vague specs into rock‑solid, measurable systems.
 
 ---
 
-### 📈 Live Engineering Metrics  
+## 📈 Live Engineering Metrics  
 
-| **Metric**      | **Value** | **Context**               |
-|-----------------|-----------|---------------------------|
-| **RPS**         | **6 071** | Datawave k6 benchmark     |
-| **Failures**    | **0 %**   | 300 concurrent VUs        |
-| **Components**  | **5**     | Logging improvements @ Jigi |
+| **Metric** | **Value** | **Context** |
+|------------|----------|-------------|
+| **RPS** | **6 071** | Datawave k6 benchmark |
+| **Failures** | **0 %** | 300 concurrent VUs |
+| **Components** | **5** | Logging improvements @ Jigi |
 
 ---
 
-### 🗂️ Featured Projects  
+## 🛠️ Featured Projects  
 
 <details open>
 <summary><strong>⚡ Datawave – High‑frequency Time‑Series Aggregator</strong></summary>
 
 - **Goal:** Ingest massive telemetry streams into PostgreSQL while staying under strict latency limits.  
 - **Highlights:** 6 071 RPS, 0 % errors at 300 VUs; batch JDBC writes + background workers; daily partitions + BRIN indexes for lightning‑fast scans.  
-- **Tech Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+- **Tech:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
 - **Repo:** <a href="https://github.com/Nurdaulet-no/datawave"><strong>GitHub →</strong></a>
@@ -58,7 +57,7 @@ A backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQ
 
 - **Scope:** Production‑grade platform refactored for several private clients.  
 - **Features:** Central catalogue & order sync across marketplaces; WhatsApp‑driven customer‑message automation; Excel‑style analytics exports.  
-- **Tech Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+- **Tech:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API" />
   <img src="https://img.shields.io/badge/Private_client_work-64748B?style=flat-square&logo=lock&logoColor=white" alt="Private client work" />  
 - **Timeline:** Freelance · 2024‑2025
@@ -69,7 +68,7 @@ A backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQ
 
 - **Concept:** Capture territories on a 3‑D map without sacrificing privacy.  
 - **Core:** PostGIS‑driven capture logic; Row‑Level Security policies; Offline‑first sync with Supabase.  
-- **Tech Stack:** <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
+- **Tech:** <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
   <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />  
 - **Repo:** <a href="https://github.com/Skyshmallow/qdam"><strong>GitHub →</strong></a>
@@ -80,7 +79,7 @@ A backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQ
 
 - **Purpose:** Private & group chat with durable history.  
 - **Key Points:** WebSocket + STOMP transport; JWT‑based auth & Spring Security hardening; Flyway‑managed PostgreSQL schema.  
-- **Tech Stack:** <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+- **Tech:** <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
   <img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square" alt="WebSocket" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />  
 - **Repo:** <a href="https://github.com/Nurdaulet-no/cortex-chat-backend"><strong>GitHub →</strong></a>
@@ -88,7 +87,7 @@ A backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQ
 
 ---
 
-### 👔 Professional Experience  
+## 👔 Professional Experience  
 
 | **Period** | **Role** | **Highlights** |
 |------------|----------|----------------|
@@ -97,7 +96,7 @@ A backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQ
 
 ---
 
-### 🧰 Technology Toolbox  
+## ⚙️ Technology Toolbox  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,elasticsearch,docker,maven,git,linux&perline=10" alt="Java, Spring, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, Maven, Git, Linux" />
@@ -109,7 +108,7 @@ A backend artisan fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQ
 
 ---
 
-### 🎓 Education  
+## 🎓 Education  
 
 **Suleyman Demirel University**  
 B.Sc. Computer Science  
@@ -117,7 +116,7 @@ B.Sc. Computer Science
 
 ---
 
-### 🌐 Languages  
+## 🗣️ Languages  
 
 - Kazakh — Native  
 - Russian — Fluent  
@@ -125,7 +124,7 @@ B.Sc. Computer Science
 
 ---
 
-### 📬 Open to Opportunities  
+## 🤝 Open to Opportunities  
 
 <div align="center">
   <h3>Let’s craft reliable, high‑performance Java back‑ends together.</h3>
@@ -134,7 +133,7 @@ B.Sc. Computer Science
 
 ---
 
-### 💡 Byte of Wisdom  
+## 💡 Byte of Wisdom  
 
 > *“Premature optimization is the root of all evil.” – Donald Knuth*  
 
@@ -142,16 +141,16 @@ Measurements guide every refactor.
 
 ---
 
-### 📅 Logbook  
+## 📜 Logbook  
 
 ```
-[2026-11-14] Switched to a retro‑terminal visual theme, added a bold ASCII banner, reordered sections for a command‑line flow, and refreshed the daily log entry.
+[2026-11-15] Switched to a cinematic “opening‑credits” theme, introduced a centered ASCII title, reordered sections for a storytelling flow, and added a fresh log entry.
 ```
 
 ---
 
 <div align="center">
-  <pre style="font-family:monospace; font-size:13px;">
+  <pre style="font-family:monospace; font-size:14px;">
    _____ _                 _       
   |  ___(_)_ __ ___   __ _| |_ ___ 
   | |_  | | '_ ` _ \ / _` | __/ _ \
@@ -162,7 +161,7 @@ Measurements guide every refactor.
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Applied a retro‑terminal visual theme with a new ASCII header and reorganized layout for a command‑line vibe.</p>
+  <p>Applied a cinematic opening‑credits visual theme with a new centered ASCII header and reordered layout for a storytelling vibe.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
