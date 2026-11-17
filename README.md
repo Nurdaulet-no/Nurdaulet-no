@@ -1,16 +1,17 @@
 <pre style="font-family:monospace; font-size:16px; line-height:1.2; text-align:center;">
-   ___   __   __  _   _   ___   _   _   ___   _   _ 
-  / _ \ / _| / _|| | | | / _ \ | \ | | / _ \ | \ | |
- | | | | |_ | |_ | |_| || | | ||  \| || | | ||  \| |
- | |_| |  _||  _||  _  || |_| || |\  || |_| || |\  |
-  \___/ |_|  |_|  |_| |_| \___/ |_| \_| \___/ |_| \_|
+ ███╗   ███╗██╗   ██╗██████╗ ██████╗ ██████╗ ██████╗ ███████╗███████╗
+ ████╗ ████║██║   ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝
+ ██╔████╔██║██║   ██║██████╔╝██████╔╝██████╔╝██████╔╝█████╗  ███████╗
+ ██║╚██╔╝██║██║   ██║██╔═══╝ ██╔═══╝ ██╔═══╝ ██╔═══╝ ██╔══╝  ╚════██║
+ ██║ ╚═╝ ██║╚██████╔╝██║     ██║     ██║     ██║     ███████╗███████║
+ ╚═╝     ╚═╝ ╚═════╝ ╚═╝     ╚═╝     ╚═╝     ╚═╝     ╚══════╝╚══════╝
 </pre>
 
-**Nurdaulet Kaldybek** – Almaty, Kazakhstan &nbsp; *2026‑11‑16*  
+**Nurdaulet Kaldybek** – Almaty, Kazakhstan&nbsp;&nbsp;*2026‑11‑17*  
 
 ---
 
-## 📡 Network Connect
+### 📡  CONNECTIVITY HUB  
 
 | | |
 |---|---|
@@ -21,15 +22,15 @@
 
 ---
 
-## 🎯 Objective
+### 🎯  PROFESSIONAL GOAL  
 
 > *“I sculpt Java services that run at the speed of thought.”*  
 
-Backend artisan, fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance bottlenecks, weigh architectural trade‑offs, and turn vague specs into rock‑solid, measurable systems.
+Backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I chase performance ghosts, weigh architectural trade‑offs, and translate hazy specs into rock‑solid, measurable systems.
 
 ---
 
-## 📊 Live Engineering Metrics  
+### 📊  LIVE ENGINE METRICS  
 
 | **Metric** | **Value** | **Context** |
 |------------|----------|-------------|
@@ -39,14 +40,14 @@ Backend artisan, fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 ---
 
-## 🚀 Active Services  
+### 🚀  CURRENT OPERATIONS  
 
 <details open>
 <summary><strong>⚡ Datawave – High‑frequency Time‑Series Aggregator</strong></summary>
 
-- **Goal:** Ingest massive telemetry streams into PostgreSQL while staying under strict latency limits.  
-- **Highlights:** 6 071 RPS, 0 % errors at 300 VUs; batch JDBC writes + background workers; daily partitions + BRIN indexes for lightning‑fast scans.  
-- **Tech Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+- **Purpose:** Funnel massive telemetry streams into PostgreSQL while honoring tight latency budgets.  
+- **Achievements:** 6 071 RPS, 0 % error rate under 300 VUs; batch JDBC writes + background workers; daily partitions + BRIN indexes for ultra‑fast scans.  
+- **Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
 - **Repo:** <a href="https://github.com/Nurdaulet-no/datawave"><strong>GitHub →</strong></a>
@@ -55,9 +56,9 @@ Backend artisan, fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL
 <details>
 <summary><strong>🛒 E‑commerce Platform – Multi‑Client Commerce Backend</strong></summary>
 
-- **Scope:** Production‑grade platform refactored for several private clients.  
-- **Features:** Central catalogue & order sync across marketplaces; WhatsApp‑driven customer‑message automation; Excel‑style analytics exports.  
-- **Tech Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+- **Scope:** Production‑grade engine refactored for several private clients.  
+- **Key Features:** Unified catalogue & order sync across marketplaces; WhatsApp‑driven customer‑message automation; Excel‑style analytics exports.  
+- **Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API" />
   <img src="https://img.shields.io/badge/Private_client_work-64748B?style=flat-square&logo=lock&logoColor=white" alt="Private client work" />  
 - **Timeline:** Freelance · 2024‑2025
@@ -66,9 +67,9 @@ Backend artisan, fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL
 <details>
 <summary><strong>🗺️ QDAM – Privacy‑First GPS Strategy Game</strong></summary>
 
-- **Concept:** Capture territories on a 3‑D map without sacrificing privacy.  
+- **Concept:** Capture territories on a 3‑D map without compromising privacy.  
 - **Core:** PostGIS‑driven capture logic; Row‑Level Security policies; Offline‑first sync with Supabase.  
-- **Tech Stack:** <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
+- **Stack:** <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
   <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />  
 - **Repo:** <a href="https://github.com/Skyshmallow/qdam"><strong>GitHub →</strong></a>
@@ -77,9 +78,9 @@ Backend artisan, fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL
 <details>
 <summary><strong>💬 Cortex Chat – Secure Real‑Time Messaging Backend</strong></summary>
 
-- **Purpose:** Private & group chat with durable history.  
-- **Key Points:** WebSocket + STOMP transport; JWT‑based auth & Spring Security hardening; Flyway‑managed PostgreSQL schema.  
-- **Tech Stack:** <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+- **Goal:** Private & group chat with durable message history.  
+- **Highlights:** WebSocket + STOMP transport; JWT‑based auth & Spring Security hardening; Flyway‑managed PostgreSQL schema.  
+- **Stack:** <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
   <img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square" alt="WebSocket" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />  
 - **Repo:** <a href="https://github.com/Nurdaulet-no/cortex-chat-backend"><strong>GitHub →</strong></a>
@@ -87,7 +88,7 @@ Backend artisan, fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 ---
 
-## 👔 Professional Experience  
+### 👔 PROFESSIONAL EXPERIENCE  
 
 | **Period** | **Role** | **Highlights** |
 |------------|----------|----------------|
@@ -96,7 +97,7 @@ Backend artisan, fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 ---
 
-## ⚙️ Technology Toolbox  
+### ⚙️ TECHNOLOGY TOOLBOX  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,elasticsearch,docker,maven,git,linux&perline=10" alt="Java, Spring, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, Maven, Git, Linux" />
@@ -108,7 +109,7 @@ Backend artisan, fluent in **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 ---
 
-## 🎓 Education  
+### 🎓 EDUCATION  
 
 **Suleyman Demirel University**  
 B.Sc. Computer Science  
@@ -116,7 +117,7 @@ B.Sc. Computer Science
 
 ---
 
-## 🗣️ Languages  
+### 🗣️ LANGUAGES  
 
 - Kazakh — Native  
 - Russian — Fluent  
@@ -124,16 +125,16 @@ B.Sc. Computer Science
 
 ---
 
-## 🤝 Open to Opportunities  
+### 🤝 OPEN TO COLLABORATION  
 
 <div align="center">
-  <h3>Let’s craft reliable, high‑performance Java back‑ends together.</h3>
+  <h3>Ready to forge high‑performance Java back‑ends together?</h3>
   <a href="mailto:nurdaqt@gmail.com"><img src="https://img.shields.io/badge/Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
 </div>
 
 ---
 
-## 💡 Byte of Wisdom  
+### 💡 BYTE OF WISDOM  
 
 > *“Premature optimization is the root of all evil.” – Donald Knuth*  
 
@@ -141,10 +142,10 @@ Measurements guide every refactor.
 
 ---
 
-## 📜 Logbook  
+### 📜 LOGBOOK  
 
 ```
-[2026-11-16] Switched to a “terminal‑monitor” visual theme, added a bold ASCII banner, reordered sections for a concise dashboard feel, and refreshed the log entry.
+[2026-11-17] Switched to a retro‑arcade menu layout, added a bold new ASCII header, shuffled sections for a game‑screen feel, and refreshed the daily log entry.
 ```
 
 ---
@@ -161,7 +162,7 @@ Measurements guide every refactor.
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Adopted a terminal‑monitor theme with a new ASCII banner and reorganized layout for a concise dashboard look.</p>
+  <p>Adopted a retro‑arcade menu layout with a fresh ASCII banner and reordered sections for a game‑screen feel.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
