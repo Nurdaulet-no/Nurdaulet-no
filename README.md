@@ -1,36 +1,47 @@
-<pre style="font-family:monospace; font-size:16px; line-height:1.2; text-align:center;">
- ███╗   ███╗██╗   ██╗██████╗ ██████╗ ██████╗ ██████╗ ███████╗███████╗
- ████╗ ████║██║   ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝
- ██╔████╔██║██║   ██║██████╔╝██████╔╝██████╔╝██████╔╝█████╗  ███████╗
- ██║╚██╔╝██║██║   ██║██╔═══╝ ██╔═══╝ ██╔═══╝ ██╔═══╝ ██╔══╝  ╚════██║
- ██║ ╚═╝ ██║╚██████╔╝██║     ██║     ██║     ██║     ███████╗███████║
- ╚═╝     ╚═╝ ╚═════╝ ╚═╝     ╚═╝     ╚═╝     ╚═╝     ╚══════╝╚══════╝
+<pre style="font-family:monospace; font-size:18px; line-height:1.2; text-align:center;">
+  _   _                 _           _       _             
+ | \ | | ___  _ __ ___ | |__   __ _| |_ ___| | __ _ _ __  
+ |  \| |/ _ \| '_ ` _ \| '_ \ / _` | __/ __| |/ _` | '_ \ 
+ | |\  | (_) | | | | | | |_) | (_| | |_\__ \ | (_| | | | |
+ |_| \_|\___/|_| |_| |_|_.__/ \__,_|\__|___/_|\__,_|_| |_|
 </pre>
 
-**Nurdaulet Kaldybek** – Almaty, Kazakhstan&nbsp;&nbsp;*2026‑11‑17*  
+**Nurdaulet Kaldybek** – Almaty, Kazakhstan *2026‑11‑18*  
 
 ---
 
-### 📡  CONNECTIVITY HUB  
+## 🌐 CONNECT
 
-| | |
-|---|---|
-| <a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> | <a href="https://www.linkedin.com/in/nurdaulet-kaldybek-30584a265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> |
-| <a href="https://t.me/tqnur"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a> | <a href="mailto:nurdaqt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> |
-| <img src="https://img.shields.io/badge/Almaty-Kazakhstan-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="Almaty, Kazakhstan" /> | <img src="https://img.shields.io/badge/English-B2-2563EB?style=flat-square" alt="English B2" /> |
-| <img src="https://img.shields.io/badge/Open_to-Java_Backend_roles-22C55E?style=flat-square" alt="Open to Java Backend roles" /> |  |
+<table>
+<tr>
+<td><a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a></td>
+<td><a href="https://www.linkedin.com/in/nurdaulet-kaldybek-30584a265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
+</tr>
+<tr>
+<td><a href="https://t.me/tqnur"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a></td>
+<td><a href="mailto:nurdaqt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Almaty-Kazakhstan-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="Almaty, Kazakhstan" /></td>
+<td><img src="https://img.shields.io/badge/English-B2-2563EB?style=flat-square" alt="English B2" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Open_to-Java_Backend_roles-22C55E?style=flat-square" alt="Open to Java Backend roles" /></td>
+<td></td>
+</tr>
+</table>
 
 ---
 
-### 🎯  PROFESSIONAL GOAL  
+## 🎯 OBJECTIVE  
 
 > *“I sculpt Java services that run at the speed of thought.”*  
 
-Backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I chase performance ghosts, weigh architectural trade‑offs, and translate hazy specs into rock‑solid, measurable systems.
+A backend craftsman wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance ghosts, weigh architectural trade‑offs, and turn vague specs into rock‑solid, measurable systems.
 
 ---
 
-### 📊  LIVE ENGINE METRICS  
+## 📈 LIVE METRICS  
 
 | **Metric** | **Value** | **Context** |
 |------------|----------|-------------|
@@ -40,12 +51,12 @@ Backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**
 
 ---
 
-### 🚀  CURRENT OPERATIONS  
+## 🚀 CURRENT PROJECTS  
 
 <details open>
 <summary><strong>⚡ Datawave – High‑frequency Time‑Series Aggregator</strong></summary>
 
-- **Purpose:** Funnel massive telemetry streams into PostgreSQL while honoring tight latency budgets.  
+- **Purpose:** Funnel massive telemetry streams into PostgreSQL while respecting tight latency budgets.  
 - **Achievements:** 6 071 RPS, 0 % error rate under 300 VUs; batch JDBC writes + background workers; daily partitions + BRIN indexes for ultra‑fast scans.  
 - **Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -88,7 +99,7 @@ Backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**
 
 ---
 
-### 👔 PROFESSIONAL EXPERIENCE  
+## 👔 EXPERIENCE  
 
 | **Period** | **Role** | **Highlights** |
 |------------|----------|----------------|
@@ -97,7 +108,7 @@ Backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**
 
 ---
 
-### ⚙️ TECHNOLOGY TOOLBOX  
+## ⚙️ TOOLBOX  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,elasticsearch,docker,maven,git,linux&perline=10" alt="Java, Spring, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, Maven, Git, Linux" />
@@ -109,7 +120,7 @@ Backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**
 
 ---
 
-### 🎓 EDUCATION  
+## 🎓 EDUCATION  
 
 **Suleyman Demirel University**  
 B.Sc. Computer Science  
@@ -117,7 +128,7 @@ B.Sc. Computer Science
 
 ---
 
-### 🗣️ LANGUAGES  
+## 🗣️ LANGUAGES  
 
 - Kazakh — Native  
 - Russian — Fluent  
@@ -125,7 +136,7 @@ B.Sc. Computer Science
 
 ---
 
-### 🤝 OPEN TO COLLABORATION  
+## 🤝 LET’S BUILD  
 
 <div align="center">
   <h3>Ready to forge high‑performance Java back‑ends together?</h3>
@@ -134,7 +145,7 @@ B.Sc. Computer Science
 
 ---
 
-### 💡 BYTE OF WISDOM  
+## 💡 BYTE OF WISDOM  
 
 > *“Premature optimization is the root of all evil.” – Donald Knuth*  
 
@@ -142,10 +153,10 @@ Measurements guide every refactor.
 
 ---
 
-### 📜 LOGBOOK  
+## 📜 LOGBOOK  
 
 ```
-[2026-11-17] Switched to a retro‑arcade menu layout, added a bold new ASCII header, shuffled sections for a game‑screen feel, and refreshed the daily log entry.
+[2026-11-18] Switched to a terminal‑styled layout with a monospaced header, rearranged sections for a command‑line feel, and added concise table‑based connectivity.
 ```
 
 ---
@@ -162,7 +173,7 @@ Measurements guide every refactor.
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Adopted a retro‑arcade menu layout with a fresh ASCII banner and reordered sections for a game‑screen feel.</p>
+  <p>Switched to a terminal‑styled layout with a monospaced header, rearranged sections for a command‑line feel, and added concise table‑based connectivity.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
