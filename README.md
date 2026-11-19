@@ -1,63 +1,54 @@
-<pre style="font-family:monospace; font-size:18px; line-height:1.2; text-align:center;">
-  _   _                 _           _       _             
- | \ | | ___  _ __ ___ | |__   __ _| |_ ___| | __ _ _ __  
- |  \| |/ _ \| '_ ` _ \| '_ \ / _` | __/ __| |/ _` | '_ \ 
- | |\  | (_) | | | | | | |_) | (_| | |_\__ \ | (_| | | | |
- |_| \_|\___/|_| |_| |_|_.__/ \__,_|\__|___/_|\__,_|_| |_|
+<pre style="font-family:monospace; text-align:center; font-size:20px;">
+ ███   ███ ███    ███ ███   ███ █████ ███   ███   ███
+ ███   ███ ███    ███ ███   ███ ███   ███   ███   ███
+ ████████ ███ ███ ███ ████████ █████ ███   ███   ███
+ ███   ███ ███ ███ ███ ███   ███ ███   ███   ███   ███
+ ███   ███ ███  ████  ███   ███ ███   █████ █████ ███
 </pre>
 
-**Nurdaulet Kaldybek** – Almaty, Kazakhstan *2026‑11‑18*  
+**Nurdaulet Kaldybek** – Almaty, Kazakhstan *2026‑11‑19*  
 
 ---
 
-## 🌐 CONNECT
+## 🌍 CONNECT
 
-<table>
-<tr>
-<td><a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a></td>
-<td><a href="https://www.linkedin.com/in/nurdaulet-kaldybek-30584a265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
-</tr>
-<tr>
-<td><a href="https://t.me/tqnur"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a></td>
-<td><a href="mailto:nurdaqt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Almaty-Kazakhstan-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="Almaty, Kazakhstan" /></td>
-<td><img src="https://img.shields.io/badge/English-B2-2563EB?style=flat-square" alt="English B2" /></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Open_to-Java_Backend_roles-22C55E?style=flat-square" alt="Open to Java Backend roles" /></td>
-<td></td>
-</tr>
-</table>
+<div style="display:flex; gap:8px; flex-wrap:wrap; justify-content:center;">
+<a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/nurdaulet-kaldybek-30584a265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://t.me/tqnur"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:nurdaqt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a><img src="https://img.shields.io/badge/Almaty-Kazakhstan-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="Almaty, Kazakhstan" /></a>
+<a><img src="https://img.shields.io/badge/English-B2-2563EB?style=flat-square" alt="English B2" /></a>
+<a><img src="https://img.shields.io/badge/Open_to-Java_Backend_roles-22C55E?style=flat-square" alt="Open to Java Backend roles" /></a>
+</div>
 
 ---
 
-## 🎯 OBJECTIVE  
+## 🎯 MISSION STATEMENT  
 
 > *“I sculpt Java services that run at the speed of thought.”*  
 
-A backend craftsman wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance ghosts, weigh architectural trade‑offs, and turn vague specs into rock‑solid, measurable systems.
+A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I chase performance phantoms, weigh architectural trade‑offs, and turn vague specs into rock‑solid, measurable systems.
 
 ---
 
-## 📈 LIVE METRICS  
+## 📊 LIVE METRICS  
 
-| **Metric** | **Value** | **Context** |
-|------------|----------|-------------|
+| Metric | Value | Context |
+|--------|-------|---------|
 | **RPS** | **6 071** | Datawave k6 benchmark |
 | **Failures** | **0 %** | 300 concurrent VUs |
 | **Components** | **5** | Logging improvements @ Jigi |
 
 ---
 
-## 🚀 CURRENT PROJECTS  
+## 🚧 CURRENT OPERATIONS  
 
 <details open>
 <summary><strong>⚡ Datawave – High‑frequency Time‑Series Aggregator</strong></summary>
 
-- **Purpose:** Funnel massive telemetry streams into PostgreSQL while respecting tight latency budgets.  
-- **Achievements:** 6 071 RPS, 0 % error rate under 300 VUs; batch JDBC writes + background workers; daily partitions + BRIN indexes for ultra‑fast scans.  
+- **Goal:** Pipe massive telemetry into PostgreSQL while staying under tight latency caps.  
+- **Outcome:** 6 071 RPS, 0 % error rate at 300 VUs; batch JDBC writes + background workers; daily partitions + BRIN indexes for lightning‑fast scans.  
 - **Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
@@ -99,16 +90,16 @@ A backend craftsman wielding **Java 17/21**, **Spring Boot**, and **PostgreS
 
 ---
 
-## 👔 EXPERIENCE  
+## 🧑‍💼 PROFESSIONAL EXPERIENCE  
 
-| **Period** | **Role** | **Highlights** |
-|------------|----------|----------------|
+| Period | Role | Highlights |
+|--------|------|------------|
 | **2024‑2025** | **Java Backend Developer – Freelance** | Delivered a reusable e‑commerce engine, integrated marketplace APIs, and automated WhatsApp customer outreach. |
 | **2024** | **Backend Intern – Jigi** | Refined production logging, introduced stateless JWT auth, and debugged REST API edge cases. |
 
 ---
 
-## ⚙️ TOOLBOX  
+## 🛠️ TOOLKIT  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,elasticsearch,docker,maven,git,linux&perline=10" alt="Java, Spring, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, Maven, Git, Linux" />
@@ -136,7 +127,7 @@ B.Sc. Computer Science
 
 ---
 
-## 🤝 LET’S BUILD  
+## 🤝 COLLABORATE  
 
 <div align="center">
   <h3>Ready to forge high‑performance Java back‑ends together?</h3>
@@ -153,10 +144,10 @@ Measurements guide every refactor.
 
 ---
 
-## 📜 LOGBOOK  
+## 📜 SYSTEM LOG  
 
 ```
-[2026-11-18] Switched to a terminal‑styled layout with a monospaced header, rearranged sections for a command‑line feel, and added concise table‑based connectivity.
+[2026-11-19] Switched to a newspaper‑front‑page layout, introduced bold ASCII banner, reorganized sections into columns, and added a compact “System Log” footer.
 ```
 
 ---
@@ -173,7 +164,7 @@ Measurements guide every refactor.
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Switched to a terminal‑styled layout with a monospaced header, rearranged sections for a command‑line feel, and added concise table‑based connectivity.</p>
+  <p>Switched to a newspaper‑front‑page layout, introduced bold ASCII banner, reorganized sections into columns, and added a compact “System Log” footer.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
