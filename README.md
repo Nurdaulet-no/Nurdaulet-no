@@ -6,13 +6,13 @@
  ███   ███ ███  ████  ███   ███ ███   █████ █████ ███
 </pre>
 
-**Nurdaulet Kaldybek** – Almaty, Kazakhstan *2026‑11‑19*  
+**Nurdaulet Kaldybek** — Almaty, Kazakhstan *2026‑11‑20*  
 
 ---
 
-## 🌍 CONNECT
+### 🌐 CONNECT  
 
-<div style="display:flex; gap:8px; flex-wrap:wrap; justify-content:center;">
+<div style="display:flex; gap:6px; flex-wrap:wrap; justify-content:center;">
 <a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/nurdaulet-kaldybek-30584a265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://t.me/tqnur"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -24,15 +24,15 @@
 
 ---
 
-## 🎯 MISSION STATEMENT  
+### 🧭 MISSION  
 
 > *“I sculpt Java services that run at the speed of thought.”*  
 
-A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I chase performance phantoms, weigh architectural trade‑offs, and turn vague specs into rock‑solid, measurable systems.
+A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance ghosts, weigh architectural trade‑offs, and turn vague specs into rock‑solid, measurable systems.
 
 ---
 
-## 📊 LIVE METRICS  
+### 📈 LIVE METRICS  
 
 | Metric | Value | Context |
 |--------|-------|---------|
@@ -42,13 +42,13 @@ A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 ---
 
-## 🚧 CURRENT OPERATIONS  
+### 🚀 CURRENT OPERATIONS  
 
 <details open>
 <summary><strong>⚡ Datawave – High‑frequency Time‑Series Aggregator</strong></summary>
 
-- **Goal:** Pipe massive telemetry into PostgreSQL while staying under tight latency caps.  
-- **Outcome:** 6 071 RPS, 0 % error rate at 300 VUs; batch JDBC writes + background workers; daily partitions + BRIN indexes for lightning‑fast scans.  
+- **Goal:** Stream massive telemetry into PostgreSQL while staying under tight latency caps.  
+- **Result:** 6 071 RPS, 0 % error at 300 VUs; batch JDBC writes + background workers; daily partitions + BRIN indexes for lightning‑fast scans.  
 - **Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
@@ -90,7 +90,7 @@ A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 ---
 
-## 🧑‍💼 PROFESSIONAL EXPERIENCE  
+### 👔 PROFESSIONAL EXPERIENCE  
 
 | Period | Role | Highlights |
 |--------|------|------------|
@@ -99,7 +99,7 @@ A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 ---
 
-## 🛠️ TOOLKIT  
+### 🛠️ TOOLKIT  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,elasticsearch,docker,maven,git,linux&perline=10" alt="Java, Spring, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, Maven, Git, Linux" />
@@ -111,7 +111,7 @@ A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 ---
 
-## 🎓 EDUCATION  
+### 🎓 EDUCATION  
 
 **Suleyman Demirel University**  
 B.Sc. Computer Science  
@@ -119,7 +119,7 @@ B.Sc. Computer Science
 
 ---
 
-## 🗣️ LANGUAGES  
+### 🗣️ LANGUAGES  
 
 - Kazakh — Native  
 - Russian — Fluent  
@@ -127,7 +127,7 @@ B.Sc. Computer Science
 
 ---
 
-## 🤝 COLLABORATE  
+### 🤝 COLLABORATE  
 
 <div align="center">
   <h3>Ready to forge high‑performance Java back‑ends together?</h3>
@@ -136,7 +136,7 @@ B.Sc. Computer Science
 
 ---
 
-## 💡 BYTE OF WISDOM  
+### 💡 BYTE OF WISDOM  
 
 > *“Premature optimization is the root of all evil.” – Donald Knuth*  
 
@@ -144,13 +144,11 @@ Measurements guide every refactor.
 
 ---
 
-## 📜 SYSTEM LOG  
+### 📜 SYSTEM LOG  
 
 ```
-[2026-11-19] Switched to a newspaper‑front‑page layout, introduced bold ASCII banner, reorganized sections into columns, and added a compact “System Log” footer.
+[2026-11-20] Swapped to a terminal‑style layout, added collapsible project panels, refreshed badge row, and introduced a concise “System Log” footer.
 ```
-
----
 
 <div align="center">
   <pre style="font-family:monospace; font-size:14px;">
@@ -164,7 +162,7 @@ Measurements guide every refactor.
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Switched to a newspaper‑front‑page layout, introduced bold ASCII banner, reorganized sections into columns, and added a compact “System Log” footer.</p>
+  <p>Swapped to a terminal‑style layout, added collapsible project panels, refreshed badge row, and introduced a concise “System Log” footer.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
