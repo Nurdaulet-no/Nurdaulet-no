@@ -1,16 +1,16 @@
 <pre style="font-family:monospace; text-align:center; font-size:20px;">
- ███   ███ ███    ███ ███   ███ █████ ███   ███   ███
- ███   ███ ███    ███ ███   ███ ███   ███   ███   ███
- ████████ ███ ███ ███ ████████ █████ ███   ███   ███
- ███   ███ ███ ███ ███ ███   ███ ███   ███   ███   ███
- ███   ███ ███  ████  ███   ███ ███   █████ █████ ███
+   ____                      _           _       
+  |  _ \ ___ _ __ ___   __ _| |_ ___  __| | ___  
+  | |_) / _ \ '_ ` _ \ / _` | __/ _ \/ _` |/ _ \ 
+  |  __/  __/ | | | | | (_| | ||  __/ (_| | (_) |
+  |_|   \___|_| |_| |_|\__,_|\__\___|\__,_|\___/ 
 </pre>
 
 **Nurdaulet Kaldybek** — Almaty, Kazakhstan *2026‑11‑20*  
 
----
+---  
 
-### 🌐 CONNECT  
+### 🌐 Connect  
 
 <div style="display:flex; gap:6px; flex-wrap:wrap; justify-content:center;">
 <a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -22,17 +22,17 @@
 <a><img src="https://img.shields.io/badge/Open_to-Java_Backend_roles-22C55E?style=flat-square" alt="Open to Java Backend roles" /></a>
 </div>
 
----
+---  
 
-### 🧭 MISSION  
+### 🎬 Mission Brief  
 
 > *“I sculpt Java services that run at the speed of thought.”*  
 
 A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance ghosts, weigh architectural trade‑offs, and turn vague specs into rock‑solid, measurable systems.
 
----
+---  
 
-### 📈 LIVE METRICS  
+### 📊 Live Metrics  
 
 | Metric | Value | Context |
 |--------|-------|---------|
@@ -40,9 +40,9 @@ A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 | **Failures** | **0 %** | 300 concurrent VUs |
 | **Components** | **5** | Logging improvements @ Jigi |
 
----
+---  
 
-### 🚀 CURRENT OPERATIONS  
+### 🚀 Featured Projects  
 
 <details open>
 <summary><strong>⚡ Datawave – High‑frequency Time‑Series Aggregator</strong></summary>
@@ -88,18 +88,18 @@ A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 - **Repo:** <a href="https://github.com/Nurdaulet-no/cortex-chat-backend"><strong>GitHub →</strong></a>
 </details>
 
----
+---  
 
-### 👔 PROFESSIONAL EXPERIENCE  
+### 👔 Professional Experience  
 
 | Period | Role | Highlights |
 |--------|------|------------|
 | **2024‑2025** | **Java Backend Developer – Freelance** | Delivered a reusable e‑commerce engine, integrated marketplace APIs, and automated WhatsApp customer outreach. |
 | **2024** | **Backend Intern – Jigi** | Refined production logging, introduced stateless JWT auth, and debugged REST API edge cases. |
 
----
+---  
 
-### 🛠️ TOOLKIT  
+### 🛠️ Toolkit  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,elasticsearch,docker,maven,git,linux&perline=10" alt="Java, Spring, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, Maven, Git, Linux" />
@@ -109,45 +109,45 @@ A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
   <code>Java 17/21</code> <code>Spring Data JPA</code> <code>Spring Security</code> <code>REST API</code> <code>JUnit</code> <code>Mockito</code> <code>k6</code>
 </p>
 
----
+---  
 
-### 🎓 EDUCATION  
+### 🎓 Education  
 
 **Suleyman Demirel University**  
 B.Sc. Computer Science  
 <sub>2022‑2026 · Kazakhstan</sub>
 
----
+---  
 
-### 🗣️ LANGUAGES  
+### 🗣️ Languages  
 
 - Kazakh — Native  
 - Russian — Fluent  
 - English — B2  
 
----
+---  
 
-### 🤝 COLLABORATE  
+### 🤝 Collaborate  
 
 <div align="center">
   <h3>Ready to forge high‑performance Java back‑ends together?</h3>
   <a href="mailto:nurdaqt@gmail.com"><img src="https://img.shields.io/badge/Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
 </div>
 
----
+---  
 
-### 💡 BYTE OF WISDOM  
+### 💡 Byte of Wisdom  
 
 > *“Premature optimization is the root of all evil.” – Donald Knuth*  
 
 Measurements guide every refactor.
 
----
+---  
 
-### 📜 SYSTEM LOG  
+### 📜 System Log  
 
 ```
-[2026-11-20] Swapped to a terminal‑style layout, added collapsible project panels, refreshed badge row, and introduced a concise “System Log” footer.
+[2026-11-20] Swapped to a newspaper‑style layout, added collapsible project panels, refreshed badge row, and introduced a concise “System Log” footer.
 ```
 
 <div align="center">
@@ -160,9 +160,11 @@ Measurements guide every refactor.
   </pre>
 </div>
 
+---  
+
 <div align="center">
   <h3>Last edit</h3>
-  <p>Swapped to a terminal‑style layout, added collapsible project panels, refreshed badge row, and introduced a concise “System Log” footer.</p>
+  <p>Swapped to a newspaper‑style layout, added collapsible project panels, refreshed badge row, and introduced a concise “System Log” footer.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
