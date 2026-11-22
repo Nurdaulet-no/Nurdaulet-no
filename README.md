@@ -1,12 +1,12 @@
 <pre style="font-family:monospace; text-align:center; font-size:20px;">
-   ____                      _           _       
-  |  _ \ ___ _ __ ___   __ _| |_ ___  __| | ___  
-  | |_) / _ \ '_ ` _ \ / _` | __/ _ \/ _` |/ _ \ 
-  |  __/  __/ | | | | | (_| | ||  __/ (_| | (_) |
-  |_|   \___|_| |_| |_|\__,_|\__\___|\__,_|\___/ 
+ _   _                 _       _ _       
+| \ | | ___  _ __ ___ | | __ _| | |_ ___ 
+|  \| |/ _ \| '_ ` _ \| |/ _` | | __/ _ \
+| |\  | (_) | | | | | | | (_| | | ||  __/
+|_| \_|\___/|_| |_| |_|_|\__,_|_|\__\___|
 </pre>
 
-**Nurdaulet Kaldybek** — Almaty, Kazakhstan *2026‑11‑20*  
+**Nurdaulet Kaldybek** — Almaty, Kazakhstan *2026‑11‑22*  
 
 ---  
 
@@ -24,21 +24,21 @@
 
 ---  
 
-### 🎬 Mission Brief  
+### 🎯 Mission  
 
 > *“I sculpt Java services that run at the speed of thought.”*  
 
-A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance ghosts, weigh architectural trade‑offs, and turn vague specs into rock‑solid, measurable systems.
+Backend craftsman wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I chase performance ghosts, balance architectural trade‑offs, and turn fuzzy specs into rock‑solid, measurable systems.
 
 ---  
 
-### 📊 Live Metrics  
+### 📈 Live Metrics  
 
-| Metric | Value | Context |
-|--------|-------|---------|
-| **RPS** | **6 071** | Datawave k6 benchmark |
-| **Failures** | **0 %** | 300 concurrent VUs |
-| **Components** | **5** | Logging improvements @ Jigi |
+| Metric      | Value | Context                     |
+|------------|-------|-----------------------------|
+| **RPS**    | **6 071** | Datawave k6 benchmark |
+| **Failures**| **0 %** | 300 concurrent VUs |
+| **Components**| **5** | Logging improvements @ Jigi |
 
 ---  
 
@@ -47,8 +47,8 @@ A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 <details open>
 <summary><strong>⚡ Datawave – High‑frequency Time‑Series Aggregator</strong></summary>
 
-- **Goal:** Stream massive telemetry into PostgreSQL while staying under tight latency caps.  
-- **Result:** 6 071 RPS, 0 % error at 300 VUs; batch JDBC writes + background workers; daily partitions + BRIN indexes for lightning‑fast scans.  
+- **Goal:** Funnel massive telemetry into PostgreSQL while staying under strict latency caps.  
+- **Result:** 6 071 RPS, 0 % error at 300 VUs; uses batch JDBC writes + background workers; daily partitions + BRIN indexes for lightning‑fast scans.  
 - **Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
@@ -69,7 +69,7 @@ A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 <details>
 <summary><strong>🗺️ QDAM – Privacy‑First GPS Strategy Game</strong></summary>
 
-- **Concept:** Capture territories on a 3‑D map without compromising privacy.  
+- **Concept:** Capture territories on a 3‑D map without compromising user privacy.  
 - **Core:** PostGIS‑driven capture logic; Row‑Level Security policies; Offline‑first sync with Supabase.  
 - **Stack:** <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
   <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
@@ -147,7 +147,7 @@ Measurements guide every refactor.
 ### 📜 System Log  
 
 ```
-[2026-11-20] Swapped to a newspaper‑style layout, added collapsible project panels, refreshed badge row, and introduced a concise “System Log” footer.
+[2026-11-22] Switched to a terminal‑style layout, added emoji prefixes, refreshed headings, and updated system‑log entry.
 ```
 
 <div align="center">
@@ -164,7 +164,7 @@ Measurements guide every refactor.
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Swapped to a newspaper‑style layout, added collapsible project panels, refreshed badge row, and introduced a concise “System Log” footer.</p>
+  <p>Switched to a terminal‑style layout, added emoji prefixes, refreshed headings, and updated system‑log entry.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
