@@ -1,4 +1,4 @@
-<pre style="font-family:monospace; text-align:center; font-size:20px;">
+<pre style="font-family:monospace; text-align:center; font-size:22px;">
  _   _                 _       _ _       
 | \ | | ___  _ __ ___ | | __ _| | |_ ___ 
 |  \| |/ _ \| '_ ` _ \| |/ _` | | __/ _ \
@@ -10,7 +10,7 @@
 
 ---  
 
-### 🌐 Connect  
+## 🌍 Stay Connected  
 
 <div style="display:flex; gap:6px; flex-wrap:wrap; justify-content:center;">
 <a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -24,32 +24,32 @@
 
 ---  
 
-### 🎯 Mission  
+## 🎯 Mission Statement  
 
 > *“I sculpt Java services that run at the speed of thought.”*  
 
-Backend craftsman wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I chase performance ghosts, balance architectural trade‑offs, and turn fuzzy specs into rock‑solid, measurable systems.
+A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance ghosts, balance architectural trade‑offs, and turn vague specs into rock‑solid, measurable systems.
 
 ---  
 
-### 📈 Live Metrics  
+## 📊 Live Metrics  
 
-| Metric      | Value | Context                     |
-|------------|-------|-----------------------------|
-| **RPS**    | **6 071** | Datawave k6 benchmark |
-| **Failures**| **0 %** | 300 concurrent VUs |
-| **Components**| **5** | Logging improvements @ Jigi |
+| Metric            | Value | Context                     |
+|-------------------|-------|-----------------------------|
+| **RPS**           | **6 071** | Datawave k6 benchmark |
+| **Failures**      | **0 %** | 300 concurrent VUs |
+| **Components**    | **5** | Logging improvements @ Jigi |
 
 ---  
 
-### 🚀 Featured Projects  
+## 🚀 Featured Projects  
 
 <details open>
 <summary><strong>⚡ Datawave – High‑frequency Time‑Series Aggregator</strong></summary>
 
-- **Goal:** Funnel massive telemetry into PostgreSQL while staying under strict latency caps.  
-- **Result:** 6 071 RPS, 0 % error at 300 VUs; uses batch JDBC writes + background workers; daily partitions + BRIN indexes for lightning‑fast scans.  
-- **Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+- **Objective:** Ingest massive telemetry streams into PostgreSQL while staying under tight latency limits.  
+- **Outcome:** 6 071 RPS, 0 % error at 300 VUs; uses batch JDBC writes + background workers; daily partitions + BRIN indexes for lightning‑fast scans.  
+- **Tech Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
 - **Repo:** <a href="https://github.com/Nurdaulet-no/datawave"><strong>GitHub →</strong></a>
@@ -59,8 +59,8 @@ Backend craftsman wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 <summary><strong>🛒 E‑commerce Platform – Multi‑Client Commerce Backend</strong></summary>
 
 - **Scope:** Production‑grade engine refactored for several private clients.  
-- **Key Features:** Unified catalogue & order sync across marketplaces; WhatsApp‑driven customer‑message automation; Excel‑style analytics exports.  
-- **Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+- **Highlights:** Unified catalogue & order sync across marketplaces; WhatsApp‑driven customer‑message automation; Excel‑style analytics exports.  
+- **Tech Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API" />
   <img src="https://img.shields.io/badge/Private_client_work-64748B?style=flat-square&logo=lock&logoColor=white" alt="Private client work" />  
 - **Timeline:** Freelance · 2024‑2025
@@ -71,7 +71,7 @@ Backend craftsman wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 - **Concept:** Capture territories on a 3‑D map without compromising user privacy.  
 - **Core:** PostGIS‑driven capture logic; Row‑Level Security policies; Offline‑first sync with Supabase.  
-- **Stack:** <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
+- **Tech Stack:** <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
   <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />  
 - **Repo:** <a href="https://github.com/Skyshmallow/qdam"><strong>GitHub →</strong></a>
@@ -82,7 +82,7 @@ Backend craftsman wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 - **Goal:** Private & group chat with durable message history.  
 - **Highlights:** WebSocket + STOMP transport; JWT‑based auth & Spring Security hardening; Flyway‑managed PostgreSQL schema.  
-- **Stack:** <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+- **Tech Stack:** <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
   <img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square" alt="WebSocket" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />  
 - **Repo:** <a href="https://github.com/Nurdaulet-no/cortex-chat-backend"><strong>GitHub →</strong></a>
@@ -90,7 +90,7 @@ Backend craftsman wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 ---  
 
-### 👔 Professional Experience  
+## 👔 Professional Experience  
 
 | Period | Role | Highlights |
 |--------|------|------------|
@@ -99,7 +99,7 @@ Backend craftsman wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 ---  
 
-### 🛠️ Toolkit  
+## 🛠️ Toolkit  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,elasticsearch,docker,maven,git,linux&perline=10" alt="Java, Spring, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, Maven, Git, Linux" />
@@ -111,7 +111,7 @@ Backend craftsman wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 ---  
 
-### 🎓 Education  
+## 🎓 Education  
 
 **Suleyman Demirel University**  
 B.Sc. Computer Science  
@@ -119,7 +119,7 @@ B.Sc. Computer Science
 
 ---  
 
-### 🗣️ Languages  
+## 🗣️ Languages  
 
 - Kazakh — Native  
 - Russian — Fluent  
@@ -127,7 +127,7 @@ B.Sc. Computer Science
 
 ---  
 
-### 🤝 Collaborate  
+## 🤝 Collaborate  
 
 <div align="center">
   <h3>Ready to forge high‑performance Java back‑ends together?</h3>
@@ -136,7 +136,7 @@ B.Sc. Computer Science
 
 ---  
 
-### 💡 Byte of Wisdom  
+## 💡 Byte of Wisdom  
 
 > *“Premature optimization is the root of all evil.” – Donald Knuth*  
 
@@ -144,7 +144,7 @@ Measurements guide every refactor.
 
 ---  
 
-### 📜 System Log  
+## 📜 System Log  
 
 ```
 [2026-11-22] Switched to a terminal‑style layout, added emoji prefixes, refreshed headings, and updated system‑log entry.
@@ -164,7 +164,7 @@ Measurements guide every refactor.
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Switched to a terminal‑style layout, added emoji prefixes, refreshed headings, and updated system‑log entry.</p>
+  <p>Re‑styled the page as a magazine‑cover layout, shuffled sections, added a “Thought of the Day” vibe, and refreshed emojis.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
