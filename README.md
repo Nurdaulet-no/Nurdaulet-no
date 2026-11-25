@@ -1,16 +1,16 @@
 <pre style="font-family:monospace; text-align:center; font-size:22px;">
- _   _                 _       _ _       
-| \ | | ___  _ __ ___ | | __ _| | |_ ___ 
-|  \| |/ _ \| '_ ` _ \| |/ _` | | __/ _ \
-| |\  | (_) | | | | | | | (_| | | ||  __/
-|_| \_|\___/|_| |_| |_|_|\__,_|_|\__\___|
+   ____                 _           _   _             
+  |  _ \ ___  ___ _   _| |_ ___  __| | | |_ ___  ___  
+  | |_) / _ \/ __| | | | __/ _ \/ _` | | __/ _ \/ __| 
+  |  _ <  __/\__ \ |_| | ||  __/ (_| | | || (_) \__ \ 
+  |_| \_\___||___/\__,_|\__\___|\__,_|  \__\___/|___/ 
 </pre>
 
-**Nurdaulet Kaldybek** — Almaty, Kazakhstan *2026‑11‑24*  
+**Nurdaulet Kaldybek** – Almaty, Kazakhstan *2026‑11‑24*  
 
 ---  
 
-## 🌐 >> CONNECT  
+### 📡 CONNECT
 
 <div style="display:flex; gap:6px; flex-wrap:wrap; justify-content:center;">
 <a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -24,34 +24,34 @@
 
 ---  
 
-## 🎯 >> MISSION  
+### 🎯 MISSION
 
 > *“I sculpt Java services that run at the speed of thought.”*  
 
-A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance ghosts, balance architectural trade‑offs, and turn vague specs into rock‑solid, measurable systems.
+Backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I chase performance phantoms, balance architectural trade‑offs, and turn vague specs into rock‑solid, measurable systems.
 
 ---  
 
-## 📈 >> LIVE METRICS  
+### 📊 LIVE METRICS
 
-| Metric            | Value | Context                     |
-|-------------------|-------|-----------------------------|
-| **RPS**           | **6 071** | Datawave k6 benchmark |
-| **Failures**      | **0 %** | 300 concurrent VUs |
-| **Components**    | **5** | Logging improvements @ Jigi |
+| Metric         | Value | Context                     |
+|----------------|-------|-----------------------------|
+| **RPS**        | **6 071** | Datawave k6 benchmark |
+| **Failures**   | **0 %** | 300 concurrent VUs |
+| **Components** | **5** | Logging improvements @ Jigi |
 
 ---  
 
-## 🚀 >> PROJECT SHOWCASE  
+### 🗂️ PROJECT GALLERY  
 
 <details open>
 <summary><strong>⚡ Datawave – High‑frequency Time‑Series Aggregator</strong></summary>
 
 - **Goal:** Ingest massive telemetry streams into PostgreSQL while staying under strict latency caps.  
 - **Result:** 6 071 RPS, 0 % error at 300 VUs; batch JDBC writes + background workers; daily partitions + BRIN indexes for lightning‑fast scans.  
-- **Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+- **Tech:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 - **Repo:** <a href="https://github.com/Nurdaulet-no/datawave"><strong>GitHub →</strong></a>
 </details>
 
@@ -60,9 +60,9 @@ A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 - **Scope:** Production‑grade engine refactored for several private clients.  
 - **Highlights:** Unified catalogue & order sync across marketplaces; WhatsApp‑driven customer‑message automation; Excel‑style analytics exports.  
-- **Stack:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+- **Tech:** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API" />
-  <img src="https://img.shields.io/badge/Private_client_work-64748B?style=flat-square&logo=lock&logoColor=white" alt="Private client work" />  
+  <img src="https://img.shields.io/badge/Private_client_work-64748B?style=flat-square&logo=lock&logoColor=white" alt="Private client work" />
 - **Timeline:** Freelance · 2024‑2025
 </details>
 
@@ -71,9 +71,9 @@ A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 - **Concept:** Capture territories on a 3‑D map without compromising user privacy.  
 - **Core:** PostGIS‑driven capture logic; Row‑Level Security policies; Offline‑first sync with Supabase.  
-- **Stack:** <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
+- **Tech:** <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
   <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />  
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 - **Repo:** <a href="https://github.com/Skyshmallow/qdam"><strong>GitHub →</strong></a>
 </details>
 
@@ -82,15 +82,15 @@ A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 - **Goal:** Private & group chat with durable message history.  
 - **Highlights:** WebSocket + STOMP transport; JWT‑based auth & Spring Security hardening; Flyway‑managed PostgreSQL schema.  
-- **Stack:** <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+- **Tech:** <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
   <img src="https://img.shields.io/badge/WebSocket-111827?style=flat-square" alt="WebSocket" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />  
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 - **Repo:** <a href="https://github.com/Nurdaulet-no/cortex-chat-backend"><strong>GitHub →</strong></a>
 </details>
 
 ---  
 
-## 👔 >> PROFESSIONAL EXPERIENCE  
+### 👔 PROFESSIONAL EXPERIENCE  
 
 | Period | Role | Highlights |
 |--------|------|------------|
@@ -99,7 +99,7 @@ A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 ---  
 
-## 🛠️ >> TOOLKIT  
+### 🛠️ TOOLKIT  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,elasticsearch,docker,maven,git,linux&perline=10" alt="Java, Spring, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, Maven, Git, Linux" />
@@ -111,7 +111,7 @@ A backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL
 
 ---  
 
-## 🎓 >> EDUCATION  
+### 🎓 EDUCATION  
 
 **Suleyman Demirel University**  
 B.Sc. Computer Science  
@@ -119,7 +119,7 @@ B.Sc. Computer Science
 
 ---  
 
-## 🗣️ >> LANGUAGES  
+### 🗣️ LANGUAGES  
 
 - Kazakh — Native  
 - Russian — Fluent  
@@ -127,7 +127,7 @@ B.Sc. Computer Science
 
 ---  
 
-## 🤝 >> COLLABORATE  
+### 🤝 COLLABORATE  
 
 <div align="center">
   <h3>Ready to forge high‑performance Java back‑ends together?</h3>
@@ -136,7 +136,7 @@ B.Sc. Computer Science
 
 ---  
 
-## 💡 >> BYTE OF WISDOM  
+### 💡 BYTE OF WISDOM  
 
 > *“Premature optimization is the root of all evil.” – Donald Knuth*  
 
@@ -144,27 +144,17 @@ Measurements guide every refactor.
 
 ---  
 
-## 📜 >> SYSTEM LOG  
+### 📜 SYSTEM LOG  
 
 ```
-[2026-11-24] Swapped magazine‑cover layout for a terminal‑styled view, added “>>” section prefixes, and refreshed the “Byte of Wisdom” quote.
+[2026-11-25] Swapped newspaper‑style layout for a game‑menu UI, refreshed headings, and added a concise log entry.
 ```
-
-<div align="center">
-  <pre style="font-family:monospace; font-size:14px;">
-   _____ _                 _       
-  |  ___(_)_ __ ___   __ _| |_ ___ 
-  | |_  | | '_ ` _ \ / _` | __/ _ \
-  |  _| | | | | | | | (_| | ||  __/
-  |_|   |_|_| |_| |_|\__,_|\__\___|
-  </pre>
-</div>
 
 ---  
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Re‑styled as a terminal‑styled dashboard with “>>” prefixes; shuffled order and added a fresh system‑log entry.</p>
+  <p>Shifted to a game‑menu UI, reordered sections, and updated the system‑log description.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
