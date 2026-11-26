@@ -1,16 +1,16 @@
-<pre style="font-family:monospace; text-align:center; font-size:22px;">
-   ____                 _           _   _             
-  |  _ \ ___  ___ _   _| |_ ___  __| | | |_ ___  ___  
-  | |_) / _ \/ __| | | | __/ _ \/ _` | | __/ _ \/ __| 
-  |  _ <  __/\__ \ |_| | ||  __/ (_| | | || (_) \__ \ 
-  |_| \_\___||___/\__,_|\__\___|\__,_|  \__\___/|___/ 
+<pre style="font-family:monospace; text-align:center; font-size:20px;">
+  _   _                 _           _   _             
+ | \ | | ___  __ _  ___| |_ ___  __| | | |_ ___  ___  
+ |  \| |/ _ \/ _` |/ __| __/ _ \/ _` | | __/ _ \/ __| 
+ | |\  |  __/ (_| | (__| ||  __/ (_| | | || (_) \__ \ 
+ |_| \_|\___|\__,_|\___|\__\___|\__,_|  \__\___/|___/ 
 </pre>
 
-**Nurdaulet Kaldybek** – Almaty, Kazakhstan *2026‑11‑24*  
+**Nurdaulet Kaldybek** – Almaty, Kazakhstan *2026‑11‑26*  
 
 ---  
 
-### 📡 CONNECT
+### 📡 CONNECT  
 
 <div style="display:flex; gap:6px; flex-wrap:wrap; justify-content:center;">
 <a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -24,7 +24,7 @@
 
 ---  
 
-### 🎯 MISSION
+### 🎯 MISSION STATEMENT  
 
 > *“I sculpt Java services that run at the speed of thought.”*  
 
@@ -32,7 +32,7 @@ Backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**
 
 ---  
 
-### 📊 LIVE METRICS
+### 📊 LIVE METRICS  
 
 | Metric         | Value | Context                     |
 |----------------|-------|-----------------------------|
@@ -147,14 +147,14 @@ Measurements guide every refactor.
 ### 📜 SYSTEM LOG  
 
 ```
-[2026-11-25] Swapped newspaper‑style layout for a game‑menu UI, refreshed headings, and added a concise log entry.
+[2026-11-26] Switched to a terminal‑styled layout, added live‑metrics table, and refreshed the project‑gallery collapsibles.
 ```
 
 ---  
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Shifted to a game‑menu UI, reordered sections, and updated the system‑log description.</p>
+  <p>Adopted a terminal‑style UI and reorganized sections for clearer navigation.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
