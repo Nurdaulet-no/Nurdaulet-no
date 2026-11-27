@@ -1,16 +1,15 @@
 <pre style="font-family:monospace; text-align:center; font-size:20px;">
-  _   _                 _           _   _             
- | \ | | ___  __ _  ___| |_ ___  __| | | |_ ___  ___  
- |  \| |/ _ \/ _` |/ __| __/ _ \/ _` | | __/ _ \/ __| 
- | |\  |  __/ (_| | (__| ||  __/ (_| | | || (_) \__ \ 
- |_| \_|\___|\__,_|\___|\__\___|\__,_|  \__\___/|___/ 
+   ___       __          __          ___           __    
+  / _ \___  / /__  ___  / /_____ ___/ (_)__  ___  / /____
+ / , _/ _ \/ / _ \/ _ \/  '_/ -_) _  / / _ \/ _ \/ __/ -_)
+/_/|_|\___/_/\___/_//_/_/\_\\__/\_,_/_/_//_/\___/\__/\__/ 
 </pre>
 
-**Nurdaulet Kaldybek** – Almaty, Kazakhstan *2026‑11‑26*  
+**Nurdaulet Kaldybek** — Almaty, Kazakhstan *2026‑11‑27*  
 
 ---  
 
-### 📡 CONNECT  
+## 🔗 CONNECT  
 
 <div style="display:flex; gap:6px; flex-wrap:wrap; justify-content:center;">
 <a href="https://nuiway.tech"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -24,25 +23,25 @@
 
 ---  
 
-### 🎯 MISSION STATEMENT  
+## 🎯 MISSION  
 
 > *“I sculpt Java services that run at the speed of thought.”*  
 
-Backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I chase performance phantoms, balance architectural trade‑offs, and turn vague specs into rock‑solid, measurable systems.
+A backend craftsman wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**. I hunt performance ghosts, balance architectural trade‑offs, and turn hazy specs into rock‑solid, measurable systems.
 
 ---  
 
-### 📊 LIVE METRICS  
+## 🚦 LIVE METRICS  
 
-| Metric         | Value | Context                     |
-|----------------|-------|-----------------------------|
-| **RPS**        | **6 071** | Datawave k6 benchmark |
-| **Failures**   | **0 %** | 300 concurrent VUs |
-| **Components** | **5** | Logging improvements @ Jigi |
+| **Metric**      | **Value** | **Context**                |
+|----------------|-----------|----------------------------|
+| **RPS**        | **6 071** | Datawave k6 benchmark      |
+| **Failures**   | **0 %**   | 300 concurrent VUs         |
+| **Components**| **5**     | Logging improvements @ Jigi|
 
 ---  
 
-### 🗂️ PROJECT GALLERY  
+## 📂 PROJECT GALLERY  
 
 <details open>
 <summary><strong>⚡ Datawave – High‑frequency Time‑Series Aggregator</strong></summary>
@@ -90,16 +89,16 @@ Backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**
 
 ---  
 
-### 👔 PROFESSIONAL EXPERIENCE  
+## 💼 PROFESSIONAL EXPERIENCE  
 
-| Period | Role | Highlights |
-|--------|------|------------|
+| **Period** | **Role** | **Highlights** |
+|-----------|----------|----------------|
 | **2024‑2025** | **Java Backend Developer – Freelance** | Delivered a reusable e‑commerce engine, integrated marketplace APIs, and automated WhatsApp customer outreach. |
 | **2024** | **Backend Intern – Jigi** | Refined production logging, introduced stateless JWT auth, and debugged REST API edge cases. |
 
 ---  
 
-### 🛠️ TOOLKIT  
+## 🛠️ TOOLKIT  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,elasticsearch,docker,maven,git,linux&perline=10" alt="Java, Spring, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, Maven, Git, Linux" />
@@ -111,7 +110,7 @@ Backend artisan wielding **Java 17/21**, **Spring Boot**, and **PostgreSQL**
 
 ---  
 
-### 🎓 EDUCATION  
+## 🎓 EDUCATION  
 
 **Suleyman Demirel University**  
 B.Sc. Computer Science  
@@ -119,7 +118,7 @@ B.Sc. Computer Science
 
 ---  
 
-### 🗣️ LANGUAGES  
+## 🗣️ LANGUAGES  
 
 - Kazakh — Native  
 - Russian — Fluent  
@@ -127,7 +126,7 @@ B.Sc. Computer Science
 
 ---  
 
-### 🤝 COLLABORATE  
+## 🤝 COLLABORATE  
 
 <div align="center">
   <h3>Ready to forge high‑performance Java back‑ends together?</h3>
@@ -136,7 +135,7 @@ B.Sc. Computer Science
 
 ---  
 
-### 💡 BYTE OF WISDOM  
+## 💡 BYTE OF WISDOM  
 
 > *“Premature optimization is the root of all evil.” – Donald Knuth*  
 
@@ -144,17 +143,17 @@ Measurements guide every refactor.
 
 ---  
 
-### 📜 SYSTEM LOG  
+## 📜 SYSTEM LOG  
 
 ```
-[2026-11-26] Switched to a terminal‑styled layout, added live‑metrics table, and refreshed the project‑gallery collapsibles.
+[2026-11-27] Switched to a newspaper‑style layout, added bold section dividers, and refreshed the headline.
 ```
 
 ---  
 
 <div align="center">
   <h3>Last edit</h3>
-  <p>Adopted a terminal‑style UI and reorganized sections for clearer navigation.</p>
+  <p>Moved to a newspaper‑style layout and refreshed visual hierarchy.</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0F172A,50:2563EB,100:7C3AED&section=footer" alt="Footer" />
